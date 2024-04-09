@@ -6,16 +6,25 @@ import {
   flexRender,
   createColumnHelper,
   ColumnDef,
+  getSortedRowModel,
+  SortingState,
 } from "@tanstack/react-table";
+import { useState } from "react";
 
 export default function StyledTable<T>(props: {
   columns: ColumnDef<T>[];
   data: T[];
 }): JSX.Element {
+  const [sorting, setSorting] = useState<SortingState>([]);
   const table = useReactTable({
     columns: props.columns,
     data: props.data,
     getCoreRowModel: getCoreRowModel(),
+    state: {
+      sorting,
+    },
+    onSortingChange: setSorting,
+    getSortedRowModel: getSortedRowModel(),
   });
 
   return (
@@ -34,12 +43,34 @@ export default function StyledTable<T>(props: {
                   width: header.column.getSize(),
                 }}
               >
-                {header.isPlaceholder
-                  ? null
-                  : flexRender(
+                {header.isPlaceholder ? null : (
+                  <div
+                    className={
+                      header.column.getCanSort()
+                        ? "cursor-pointer select-none"
+                        : ""
+                    }
+                    onClick={header.column.getToggleSortingHandler()}
+                    title={
+                      header.column.getCanSort()
+                        ? header.column.getNextSortingOrder() === "asc"
+                          ? "Sort ascending"
+                          : header.column.getNextSortingOrder() === "desc"
+                          ? "Sort descending"
+                          : "Clear sort"
+                        : undefined
+                    }
+                  >
+                    {flexRender(
                       header.column.columnDef.header,
                       header.getContext()
                     )}
+                    {{
+                      asc: " 🔼",
+                      desc: " 🔽",
+                    }[header.column.getIsSorted() as string] ?? null}
+                  </div>
+                )}
               </th>
             ))}
           </tr>

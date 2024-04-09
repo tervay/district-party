@@ -154,6 +154,26 @@ export default function District(props: { districtKey: string }): JSX.Element {
                 t.active_years.length
               ).toFixed(0)}%`,
             size: 100,
+            sortingFn: (rowA, rowB, columnID) => {
+              const b = parseInt(
+                (rowB.getValue(columnID) as string).replace("%", "")
+              );
+              const a = parseInt(
+                (rowA.getValue(columnID) as string).replace("%", "")
+              );
+
+              if (a < b) {
+                return -1;
+              }
+              if (a === b) {
+                return 0;
+              }
+              if (a > b) {
+                return 1;
+              }
+
+              return 0;
+            },
           },
           {
             header: "Matches",
@@ -207,6 +227,17 @@ export default function District(props: { districtKey: string }): JSX.Element {
               return `${record?.won}-${record?.lost}-${record?.tied}`;
             },
             size: 125,
+          },
+          {
+            header: "EPA",
+            accessorFn: (t) => {
+              let lastActiveYear = t.active_years[t.active_years.length - 1];
+              let lastActiveYearEvents =
+                info.annual_info[lastActiveYear].team_events[t.key];
+
+              return lastActiveYearEvents[lastActiveYearEvents.length - 1].epa
+                .normalized;
+            },
           },
         ]}
         data={sortedTeams.filter((t) =>
