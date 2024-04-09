@@ -4,7 +4,11 @@ import itertools
 from collections import defaultdict
 from typing import Any, Dict, List, Tuple, TypedDict, Union
 
-from aiohttp import ClientSession, TCPConnector
+from aiohttp import TCPConnector
+from aiohttp_client_cache import CachedSession, SQLiteBackend
+
+import pandas as pd
+
 from tbapy import TBA
 
 from api_types import (
@@ -46,14 +50,16 @@ class TBATeam(TypedDict):
     website: Union[str, None]
 
 
-async def fetch_json(session: ClientSession, url: str) -> Any:
+async def fetch_json(session: CachedSession, url: str) -> Any:
     async with session.get(url, headers=TBA_HEADERS) as response:
         return await response.json()
 
 
 async def fetch_all(urls: List[str]) -> List[Any]:
     connector = TCPConnector(limit=32)
-    async with ClientSession(connector=connector) as session:
+    async with CachedSession(
+        connector=connector, cache=SQLiteBackend("cache")
+    ) as session:
         tasks = [fetch_json(session, url) for url in urls]
         return await asyncio.gather(*tasks)
 
@@ -84,11 +90,7 @@ async def get_all_teams_by_keys(keys: List[str]) -> Dict[str, TBATeam]:
 async def get_team_events(
     team_keys: List[str], event_keys: List[str], pbar_maker=None
 ) -> Tuple[Dict[str, List[TeamEvent]], List[Event]]:
-
-    statbotics_team_events = []
-    with open("data/statbotics/team_events.csv", "r") as f:
-        reader = csv.DictReader(f)
-        statbotics_team_events = list(reader)
+    statbotics_team_events = pd.read_csv("data/statbotics/team_events.csv")
 
     team_events = defaultdict(list)
 
@@ -149,15 +151,13 @@ async def get_team_events(
 
         epa_data = None
         if not award_only:
-            maybe_sb_data = list(
-                filter(
-                    lambda r: r["event"] == ek and r["team"] == tk[3:],
-                    statbotics_team_events,
-                )
-            )
+            maybe_sb_data = statbotics_team_events[
+                (statbotics_team_events["event"] == ek)
+                & (statbotics_team_events["team"] == tk[3:])
+            ]
 
-            if len(maybe_sb_data) > 0:
-                epa_data = maybe_sb_data[0]
+            if not maybe_sb_data.empty:
+                epa_data = maybe_sb_data.iloc[0]
 
         if epa_data is None and not award_only:
             continue
@@ -245,6 +245,9 @@ async def get_team_events(
     for ek in event_keys:
         alliances = []
         for tba_alliance in event_alliances[ek] or []:
+            if tba_alliance["status"] == "unknown":
+                continue
+
             placement = AlliancePlacement.NOT_YET_IMPLEMENTED
 
             if event_infos[ek]["playoff_type"] == PlayoffType.DOUBLE_ELIM_8_TEAM:

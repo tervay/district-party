@@ -11,85 +11,117 @@
 # 2015: https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/archive/2015/AdminManual20150407.pdf (pdf pg 59)
 # 2014: https://www.chiefdelphi.com/t/frc-blogged-standard-district-points-ranking-system-more-info/131273
 
-- key: fim
-  name: Michigan
-  first_year: 2009
+# - key: fim
+#   name: Michigan
+#   first_year: 2009
+#   slots: {}
+# - key: ne
+#   name: New England
+#   first_year: 2014
+#   slots:
+#     2024:
+#       total: 31
+#       impact: 3
+#       ei: 2
+#       ras: 1
+#       dlf: 5
+#       wffa: 2
+#     2023:
+#       total: 32
+#       impact: 4
+#       ei: 2
+#       ras: 1
+#       dlf: 5
+#       wffa: 2
+#     2022:
+#       total: 25
+#       impact: 3
+#       ei: 2
+#       ras: 1
+#       dlf: 4
+#       wffa: 1
+#     2020:
+#       total: 33
+#       impact: 4
+#       ei: 2
+#       ras: 1
+#       dlf: 6
+#       wffa: 1
+#     2019:
+#       total: 33
+#       impact: 4
+#       ei: 2
+#       ras: 1
+#       dlf: 6
+#       wffa: 1
+#     2018:
+#       total: 37
+#       impact: 4
+#       ei: 2
+#       ras: 2
+#       dlf: 5
+#       wffa: 1
+#     2017:
+#       total: 37
+#       impact: 4
+#       ei: 2
+#       ras: 2
+#       dlf: 6
+#       wffa: 1
+#     2016:
+#       total: 34
+#       impact: 4
+#       ei: 2
+#       ras: 1
+#       dlf: 6
+#       wffa: 1
+#     2015:
+#       total: 35
+#       impact: 4
+#       ei: 2
+#       ras: 2
+#       dlf: 6
+#       wffa: 1
+#     2014:
+#       total: 24
+#       impact: 4
+#       ei: 2
+#       ras: 2
+#       dlf: 6
+#       wffa: 1
+# - key: ont
+#   name: Ontario
+#   first_year: 2017
+#   slots: {}
+- key: chs
+  name: Chesapeake
+  first_year: 2016
   slots: {}
-- key: ne
-  name: New England
-  first_year: 2014
-  slots:
-    2024:
-      total: 31
-      impact: 3
-      ei: 2
-      ras: 1
-      dlf: 5
-      wffa: 2
-    2023:
-      total: 32
-      impact: 4
-      ei: 2
-      ras: 1
-      dlf: 5
-      wffa: 2
-    2022:
-      total: 25
-      impact: 3
-      ei: 2
-      ras: 1
-      dlf: 4
-      wffa: 1
-    2020:
-      total: 33
-      impact: 4
-      ei: 2
-      ras: 1
-      dlf: 6
-      wffa: 1
-    2019:
-      total: 33
-      impact: 4
-      ei: 2
-      ras: 1
-      dlf: 6
-      wffa: 1
-    2018:
-      total: 37
-      impact: 4
-      ei: 2
-      ras: 2
-      dlf: 5
-      wffa: 1
-    2017:
-      total: 37
-      impact: 4
-      ei: 2
-      ras: 2
-      dlf: 6
-      wffa: 1
-    2016:
-      total: 34
-      impact: 4
-      ei: 2
-      ras: 1
-      dlf: 6
-      wffa: 1
-    2015:
-      total: 35
-      impact: 4
-      ei: 2
-      ras: 2
-      dlf: 6
-      wffa: 1
-    2014:
-      total: 24
-      impact: 4
-      ei: 2
-      ras: 2
-      dlf: 6
-      wffa: 1
-- key: ont
-  name: Ontario
+- key: fit
+  name: Texas
+  first_year: 2022
+  slots: {}
+- key: fin
+  name: Indiana
+  first_year: 2015
+  slots: {}
+- key: isr
+  name: Israel
   first_year: 2017
+  slots: {}
+- key: fma
+  name: Mid-Atlantic
+  first_year: 2012
+  slots: {}
+- key: fnc
+  name: North Carolina
+  first_year: 2016
+  slots: {}
+- key: pnw
+  name: Pacific Northwest
+  first_year: 2014
+  slots: {}
+- key: pch
+  name: Peachtree
+  first_year: 2016
   slots: {}

@@ -4,9 +4,11 @@ from abc import ABC, abstractmethod
 from collections import defaultdict
 from dataclasses import dataclass
 from typing import Dict, List, Set
+from numpyencoder import NumpyEncoder
 
 from tqdm import tqdm
 from yaml import Loader, load
+from pathlib import Path
 
 from api_types import AnnualInfo, AnnualSlots, DistrictInfo, DistrictSummary, SimpleTeam
 from getters import get_all_teams_by_keys, get_team_events, tba
@@ -179,12 +181,15 @@ class RealDistricts:
                 ),
             )
 
-        with open("data/out/annual_infos.json", "w+") as f:
-            json.dump(
-                {k: dataclasses.asdict(v) for k, v in district_infos.items()},
-                f,
-                indent=2,
-            )
+            Path(f"data/out/{rd.district_key}/").mkdir(parents=True, exist_ok=True)
+            with open(f"data/out/{rd.district_key}/annual_info.json", "w+") as f:
+                json.dump(
+                    dataclasses.asdict(district_infos[rd.district_key]),
+                    f,
+                    indent=2,
+                    sort_keys=True,
+                    cls=NumpyEncoder,
+                )
 
 
 RealDistricts.load()
