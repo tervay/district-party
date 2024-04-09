@@ -1,0 +1,95 @@
+---
+# slots
+# 2024: https://web.archive.org/web/20240407045255/https://www.firstinspires.org/resource-library/frc/championship-eligibility-criteria
+# 2023: https://web.archive.org/web/20230331085032/https://www.firstinspires.org/resource-library/frc/championship-eligibility-criteria
+# 2022: https://web.archive.org/web/20220313105230/https://www.firstinspires.org/resource-library/frc/championship-eligibility-criteria
+# 2020: https://firstfrc.blob.core.windows.net/frc2020/Manual/2020FRCGameSeasonManual.pdf (pdf pg 125)
+# 2019: https://firstfrc.blob.core.windows.net/frc2019/Manual/2019FRCGameSeasonManual.pdf (pdf pg 123)
+# 2018: https://firstfrc.blob.core.windows.net/frc2018/Manual/2018FRCGameSeasonManual.pdf (pdf pg 126)
+# 2017: https://firstfrc.blob.core.windows.net/frc2017/Manual/2017FRCGameSeasonManual.pdf (pdf pg 128)
+# 2016: https://firstfrc.blob.core.windows.net/frc2016manuals/AdminManual/FRC-2016-admin-manual-07.pdf (pdf pg 11)
+# 2015: https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/archive/2015/AdminManual20150407.pdf (pdf pg 59)
+# 2014: https://www.chiefdelphi.com/t/frc-blogged-standard-district-points-ranking-system-more-info/131273
+
+- key: fim
+  name: Michigan
+  first_year: 2009
+  slots: {}
+- key: ne
+  name: New England
+  first_year: 2014
+  slots:
+    2024:
+      total: 31
+      impact: 3
+      ei: 2
+      ras: 1
+      dlf: 5
+      wffa: 2
+    2023:
+      total: 32
+      impact: 4
+      ei: 2
+      ras: 1
+      dlf: 5
+      wffa: 2
+    2022:
+      total: 25
+      impact: 3
+      ei: 2
+      ras: 1
+      dlf: 4
+      wffa: 1
+    2020:
+      total: 33
+      impact: 4
+      ei: 2
+      ras: 1
+      dlf: 6
+      wffa: 1
+    2019:
+      total: 33
+      impact: 4
+      ei: 2
+      ras: 1
+      dlf: 6
+      wffa: 1
+    2018:
+      total: 37
+      impact: 4
+      ei: 2
+      ras: 2
+      dlf: 5
+      wffa: 1
+    2017:
+      total: 37
+      impact: 4
+      ei: 2
+      ras: 2
+      dlf: 6
+      wffa: 1
+    2016:
+      total: 34
+      impact: 4
+      ei: 2
+      ras: 1
+      dlf: 6
+      wffa: 1
+    2015:
+      total: 35
+      impact: 4
+      ei: 2
+      ras: 2
+      dlf: 6
+      wffa: 1
+    2014:
+      total: 24
+      impact: 4
+      ei: 2
+      ras: 2
+      dlf: 6
+      wffa: 1
+- key: ont
+  name: Ontario
+  first_year: 2017
+  slots: {}

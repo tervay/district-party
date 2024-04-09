@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "3000:3000"
+    command: [ "pnpm", "start" ]
+    volumes:
+      - ./frontend:/app/frontend
+
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "5000:5000"
+    command: [ "gunicorn", "-b", "0.0.0.0:5000", "main:app" ]
+    volumes:
+      - ./backend:/app/backend
