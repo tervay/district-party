@@ -38,7 +38,7 @@ export default function District(props: { districtKey: string }): JSX.Element {
         // Call fetchData with a unique key and the URL to fetch data from
         await fetchData(
           props.districtKey,
-          `http://localhost:5000/district/${props.districtKey}/annual_infos`
+          `district/${props.districtKey}/annual_infos`
         );
       } catch (error) {
         console.error("Error fetching data:", error);

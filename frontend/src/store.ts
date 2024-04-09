@@ -20,7 +20,7 @@ const useDataStore = create<DataStore>((set, get) => ({
         error: { ...state.error, [key]: null },
       }));
 
-      const response = await fetch(url);
+      const response = await fetch(`${API_URL}${url}`);
       if (!response.ok) {
         throw new Error("Network response was not ok");
       }
@@ -44,5 +44,10 @@ const useDataStore = create<DataStore>((set, get) => ({
     }
   },
 }));
+
+const API_URL =
+  process.env.REACT_APP_PROD === "yes"
+    ? "https://api.district.party/"
+    : "http://localhost:5000/";
 
 export default useDataStore;

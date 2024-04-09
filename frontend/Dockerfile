@@ -6,17 +6,16 @@ WORKDIR /app/frontend
 
 # Copy the package.json and package-lock.json files
 COPY package*.json ./
+COPY . .
 
 # Install pnpm
 RUN npm install -g pnpm
 
 # Install dependencies
 RUN pnpm install
-
-# Copy the remaining files to the working directory
-COPY . .
+RUN npm install -g serve
 
 # Expose port 3000
 EXPOSE 3000
 
-CMD ["pnpm", "start"]
+CMD [ "pnpm", "start" ]
