@@ -1,6 +1,7 @@
 import enum
 from dataclasses import dataclass
 from typing import Dict, List, Optional
+from dataclasses_json import dataclass_json
 
 
 @enum.unique
@@ -167,6 +168,7 @@ class AlliancePlacement(enum.IntEnum):
     NOT_YET_IMPLEMENTED = -1
 
 
+@dataclass_json
 @dataclass
 class Record:
     won: int
@@ -184,6 +186,7 @@ class Record:
         )
 
 
+@dataclass_json
 @dataclass
 class SimpleTeam:
     key: str
@@ -196,6 +199,7 @@ class SimpleTeam:
     active_years: List[int]
 
 
+@dataclass_json
 @dataclass
 class TeamEventEPA:
     mean: float
@@ -204,11 +208,13 @@ class TeamEventEPA:
     normalized: int
 
 
+@dataclass_json
 @dataclass
 class TeamEvent:
     team_key: str
     event_key: str
     event_type: EventType
+    event_week: int
     award_only_appearance: bool
 
     qual_pts: Optional[int]
@@ -226,6 +232,7 @@ class TeamEvent:
     epa: Optional[TeamEventEPA]
 
 
+@dataclass_json
 @dataclass
 class AnnualSlots:
     total: int
@@ -236,12 +243,14 @@ class AnnualSlots:
     wffa: int
 
 
+@dataclass_json
 @dataclass
 class Award:
     award_type: AwardType
     recipient_team: str
 
 
+@dataclass_json
 @dataclass
 class Alliance:
     teams: List[str]
@@ -252,6 +261,7 @@ class Alliance:
     placement: AlliancePlacement
 
 
+@dataclass_json
 @dataclass
 class Event:
     key: str
@@ -266,6 +276,8 @@ class Event:
     week: int
     year: int
     event_type: EventType
+    parent_key: Optional[str]
+    child_keys: List[str]
 
     awards: List[Award]
     district_pts: Dict
@@ -274,6 +286,18 @@ class Event:
     rankings: List[Dict]
 
 
+@dataclass_json
+@dataclass
+class DistrictRanking:
+    qualifying_points_individual: List[int]
+    qualifying_points_total: int
+    dcmp_points: int
+    rank: int
+    age_bonus: int
+    team_key: str
+
+
+@dataclass_json
 @dataclass
 class AnnualInfo:
     year: int
@@ -281,8 +305,10 @@ class AnnualInfo:
     team_events: Dict[str, List[TeamEvent]]
     slots: AnnualSlots
     events: List[Event]
+    rankings: List[DistrictRanking]
 
 
+@dataclass_json
 @dataclass
 class DistrictSummary:
     all_teams: Dict[str, SimpleTeam]
@@ -291,6 +317,7 @@ class DistrictSummary:
     first_year: int
 
 
+@dataclass_json
 @dataclass
 class DistrictInfo:
     summary: DistrictSummary

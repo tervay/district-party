@@ -1,4 +1,3 @@
-import useDataStore from "./store";
 import { Link } from "wouter";
 
 export default function Landing(): JSX.Element {

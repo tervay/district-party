@@ -3,15 +3,22 @@ import json
 from abc import ABC, abstractmethod
 from collections import defaultdict
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Dict, List, Set
-from numpyencoder import NumpyEncoder
 
+from api_types import (
+    AnnualInfo,
+    AnnualSlots,
+    DistrictInfo,
+    DistrictSummary,
+    SimpleTeam,
+    DistrictRanking,
+)
+from getters import get_all_teams_by_keys, get_team_events, tba, get_district_rankings
+from numpyencoder import NumpyEncoder
 from tqdm import tqdm
 from yaml import Loader, load
-from pathlib import Path
-
-from api_types import AnnualInfo, AnnualSlots, DistrictInfo, DistrictSummary, SimpleTeam
-from getters import get_all_teams_by_keys, get_team_events, tba
+from util import us_state_to_abbrev, can_province_abbrev
 
 CURRENT_YEAR = 2024
 
@@ -154,6 +161,34 @@ class RealDistricts:
                         year, AnnualSlots(total=0, impact=0, ei=0, ras=0, dlf=0, wffa=0)
                     ),
                     events=events,
+                    rankings=[
+                        DistrictRanking(
+                            qualifying_points_individual=[
+                                e["total"]
+                                for e in r["event_points"]
+                                if not e["district_cmp"]
+                            ],
+                            qualifying_points_total=sum(
+                                e["total"]
+                                for e in r["event_points"]
+                                if not e["district_cmp"]
+                            ),
+                            dcmp_points=sum(
+                                e["total"]
+                                for e in r["event_points"]
+                                if e["district_cmp"]
+                            ),
+                            rank=r["rank"],
+                            age_bonus=r["rookie_bonus"],
+                            team_key=r["team_key"],
+                        )
+                        for r in (
+                            await get_district_rankings(
+                                district_key=rd.district_key, year=year
+                            )
+                        )
+                        if (r["point_total"] - r["rookie_bonus"]) > 0
+                    ],
                 )
                 annual_infos[year] = ai
 
@@ -167,7 +202,12 @@ class RealDistricts:
                             key=k,
                             number=int(k[3:]),
                             city=t["city"],
-                            state_prov=t["state_prov"],
+                            state_prov={
+                                "USA": us_state_to_abbrev,
+                                "Canada": can_province_abbrev,
+                            }
+                            .get(t["country"], {})
+                            .get(t["state_prov"], t["state_prov"]),
                             country=t["country"],
                             name=t["nickname"],
                             rookie_year=t["rookie_year"],

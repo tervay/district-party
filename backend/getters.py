@@ -87,6 +87,10 @@ async def get_all_teams_by_keys(keys: List[str]) -> Dict[str, TBATeam]:
     return dict(zip(keys, await fetch_all([tba_url(f"team/{k}") for k in keys])))
 
 
+async def get_district_rankings(district_key: str, year: int) -> List[Dict]:
+    return (await fetch_all([tba_url(f"district/{year}{district_key}/rankings")]))[0]
+
+
 async def get_team_events(
     team_keys: List[str], event_keys: List[str], pbar_maker=None
 ) -> Tuple[Dict[str, List[TeamEvent]], List[Event]]:
@@ -203,6 +207,7 @@ async def get_team_events(
                 team_key=tk,
                 event_key=ek,
                 event_type=event_infos[ek]["event_type"],
+                event_week=event_infos[ek]["week"],
                 award_only_appearance=award_only,
                 qual_pts=event_dpts[ek]["points"][tk]["qual_points"],
                 alliance_pts=event_dpts[ek]["points"][tk]["alliance_points"],
@@ -250,6 +255,9 @@ async def get_team_events(
 
             placement = AlliancePlacement.NOT_YET_IMPLEMENTED
 
+            if event_infos[ek]["playoff_type"] is None:
+                event_infos[ek]["playoff_type"] = PlayoffType.BRACKET_8_TEAM
+
             if event_infos[ek]["playoff_type"] == PlayoffType.DOUBLE_ELIM_8_TEAM:
                 if (
                     tba_alliance["status"]["double_elim_round"]
@@ -280,6 +288,34 @@ async def get_team_events(
                         "qf": AlliancePlacement.SE_QUARTERS,
                         "ef": AlliancePlacement.SE_EIGHTHS,
                     }[tba_alliance["status"]["level"]]
+            elif event_infos[ek]["playoff_type"] == PlayoffType.BRACKET_2_TEAM:
+                if tba_alliance["status"]["status"] == "won":
+                    placement = AlliancePlacement.WINNER
+                else:
+                    placement = AlliancePlacement.FINALIST
+            elif event_infos[ek]["playoff_type"] == PlayoffType.BRACKET_4_TEAM:
+                if tba_alliance["status"]["status"] == "won":
+                    placement = AlliancePlacement.WINNER
+                else:
+                    if event_infos[ek]["year"] <= 2022:
+                        if tba_alliance["status"] == "unknown":
+                            placement = AlliancePlacement.SE_SEMIS
+                        placement = {
+                            "f": AlliancePlacement.FINALIST,
+                            "sf": AlliancePlacement.SE_SEMIS,
+                        }[tba_alliance["status"]["level"]]
+                    else:
+                        placement = {
+                            DoubleElimRound.ROUND5: AlliancePlacement.DE_THIRD,
+                            DoubleElimRound.ROUND4: AlliancePlacement.DE_FOURTH,
+                            DoubleElimRound.ROUND3: AlliancePlacement.DE_FIFTH_SIXTH,
+                            DoubleElimRound.ROUND2: AlliancePlacement.DE_SEVENTH_EIGHTH,
+                        }[tba_alliance["status"]["double_elim_round"]]
+
+            # else:
+            #     print(
+            #         f'Not doing placements for {ek} -- {event_infos[ek]["playoff_type"]}'
+            #     )
 
             alliances.append(
                 Alliance(
@@ -310,6 +346,8 @@ async def get_team_events(
                 week=event_infos[ek]["week"],
                 year=event_infos[ek]["year"],
                 event_type=event_infos[ek]["event_type"],
+                parent_key=event_infos[ek]["parent_event_key"],
+                child_keys=event_infos[ek]["division_keys"],
                 awards=flatten(
                     [
                         Award(

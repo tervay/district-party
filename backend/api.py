@@ -2,6 +2,7 @@ import json
 from flask import Flask, abort
 from flask_cors import CORS
 import os
+from util import read_district_data
 
 app = Flask(__name__)
 CORS(app)
@@ -34,3 +35,8 @@ def district_annual_infos(district_key: str):
 @app.route("/all/annual_infos")
 def all_annual_infos():
     return annual_infos
+
+
+@app.route("/d/<district_key>")
+def district_index(district_key: str):
+    return read_district_data(district_key, "district/index.json")

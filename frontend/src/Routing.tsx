@@ -1,7 +1,6 @@
 import { Route, Switch } from "wouter";
 import Landing from "./Landing";
-import District from "./district/main";
-import useDataStore from "./store";
+import District from "./district";
 
 export default function Routing(): JSX.Element {
   // const { data, isLoading } = useDataStore();
@@ -19,7 +18,7 @@ export default function Routing(): JSX.Element {
         <Landing />
       </Route>
 
-      <Route path="/district/:districtKey">
+      <Route path="/d/:districtKey">
         {(params) => <District districtKey={params.districtKey} />}
       </Route>
     </Switch>

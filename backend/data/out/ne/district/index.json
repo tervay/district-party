@@ -1,0 +1,7590 @@
+{
+  "events": {
+    "recent": 14,
+    "total": 108
+  },
+  "rankings": {
+    "by_year": {
+      "2014": [
+        {
+          "age_bonus": 0,
+          "dcmp_points": 174,
+          "qualifying_points_individual": [
+            63,
+            66
+          ],
+          "qualifying_points_total": 129,
+          "rank": 1,
+          "team_key": "frc177"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 189,
+          "qualifying_points_individual": [
+            43,
+            71
+          ],
+          "qualifying_points_total": 114,
+          "rank": 2,
+          "team_key": "frc195"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 186,
+          "qualifying_points_individual": [
+            57,
+            46
+          ],
+          "qualifying_points_total": 103,
+          "rank": 3,
+          "team_key": "frc230"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 177,
+          "qualifying_points_individual": [
+            32,
+            75
+          ],
+          "qualifying_points_total": 107,
+          "rank": 4,
+          "team_key": "frc558"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 138,
+          "qualifying_points_individual": [
+            46,
+            75
+          ],
+          "qualifying_points_total": 121,
+          "rank": 5,
+          "team_key": "frc78"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 108,
+          "qualifying_points_individual": [
+            72,
+            76
+          ],
+          "qualifying_points_total": 148,
+          "rank": 6,
+          "team_key": "frc3467"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 105,
+          "qualifying_points_individual": [
+            54,
+            66
+          ],
+          "qualifying_points_total": 120,
+          "rank": 7,
+          "team_key": "frc1519"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 150,
+          "qualifying_points_individual": [
+            14,
+            59
+          ],
+          "qualifying_points_total": 73,
+          "rank": 8,
+          "team_key": "frc4055"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 123,
+          "qualifying_points_individual": [
+            51,
+            28
+          ],
+          "qualifying_points_total": 79,
+          "rank": 9,
+          "team_key": "frc716"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 81,
+          "qualifying_points_individual": [
+            56,
+            59
+          ],
+          "qualifying_points_total": 115,
+          "rank": 10,
+          "team_key": "frc131"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 123,
+          "qualifying_points_individual": [
+            43,
+            24
+          ],
+          "qualifying_points_total": 67,
+          "rank": 11,
+          "team_key": "frc228"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 96,
+          "qualifying_points_individual": [
+            33,
+            57
+          ],
+          "qualifying_points_total": 90,
+          "rank": 12,
+          "team_key": "frc2168"
+        },
+        {
+          "age_bonus": 10,
+          "dcmp_points": 99,
+          "qualifying_points_individual": [
+            46,
+            28
+          ],
+          "qualifying_points_total": 74,
+          "rank": 13,
+          "team_key": "frc5122"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 114,
+          "qualifying_points_individual": [
+            31,
+            37
+          ],
+          "qualifying_points_total": 68,
+          "rank": 14,
+          "team_key": "frc811"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            42,
+            46
+          ],
+          "qualifying_points_total": 88,
+          "rank": 15,
+          "team_key": "frc2067"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 87,
+          "qualifying_points_individual": [
+            22,
+            68
+          ],
+          "qualifying_points_total": 90,
+          "rank": 16,
+          "team_key": "frc125"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 117,
+          "qualifying_points_individual": [
+            15,
+            44
+          ],
+          "qualifying_points_total": 59,
+          "rank": 17,
+          "team_key": "frc1153"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 72,
+          "qualifying_points_individual": [
+            64,
+            38
+          ],
+          "qualifying_points_total": 102,
+          "rank": 18,
+          "team_key": "frc58"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 102,
+          "qualifying_points_individual": [
+            31,
+            32
+          ],
+          "qualifying_points_total": 63,
+          "rank": 19,
+          "team_key": "frc3525"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 60,
+          "qualifying_points_individual": [
+            35,
+            58
+          ],
+          "qualifying_points_total": 93,
+          "rank": 20,
+          "team_key": "frc2648"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 36,
+          "qualifying_points_individual": [
+            63,
+            48
+          ],
+          "qualifying_points_total": 111,
+          "rank": 21,
+          "team_key": "frc176"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 57,
+          "qualifying_points_individual": [
+            40,
+            50
+          ],
+          "qualifying_points_total": 90,
+          "rank": 22,
+          "team_key": "frc175"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 69,
+          "qualifying_points_individual": [
+            35,
+            42
+          ],
+          "qualifying_points_total": 77,
+          "rank": 23,
+          "team_key": "frc3930"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 42,
+          "qualifying_points_individual": [
+            44,
+            55
+          ],
+          "qualifying_points_total": 99,
+          "rank": 24,
+          "team_key": "frc133"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 75,
+          "qualifying_points_individual": [
+            40,
+            26
+          ],
+          "qualifying_points_total": 66,
+          "rank": 25,
+          "team_key": "frc172"
+        }
+      ],
+      "2015": [
+        {
+          "age_bonus": 0,
+          "dcmp_points": 219,
+          "qualifying_points_individual": [
+            73.0,
+            73.0
+          ],
+          "qualifying_points_total": 146,
+          "rank": 1,
+          "team_key": "frc1519"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 234,
+          "qualifying_points_individual": [
+            27,
+            73.0
+          ],
+          "qualifying_points_total": 100,
+          "rank": 2,
+          "team_key": "frc195"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 165,
+          "qualifying_points_individual": [
+            43,
+            41
+          ],
+          "qualifying_points_total": 84,
+          "rank": 3,
+          "team_key": "frc2067"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 138,
+          "qualifying_points_individual": [
+            43,
+            61
+          ],
+          "qualifying_points_total": 104,
+          "rank": 4,
+          "team_key": "frc1768"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 135,
+          "qualifying_points_individual": [
+            38,
+            59
+          ],
+          "qualifying_points_total": 97,
+          "rank": 5,
+          "team_key": "frc2170"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 144,
+          "qualifying_points_individual": [
+            26,
+            60.0
+          ],
+          "qualifying_points_total": 86,
+          "rank": 6,
+          "team_key": "frc1100"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 156,
+          "qualifying_points_individual": [
+            44,
+            30
+          ],
+          "qualifying_points_total": 74,
+          "rank": 7,
+          "team_key": "frc175"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            67.0,
+            69.0
+          ],
+          "qualifying_points_total": 136,
+          "rank": 8,
+          "team_key": "frc230"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 114,
+          "qualifying_points_individual": [
+            73.0,
+            31
+          ],
+          "qualifying_points_total": 104,
+          "rank": 9,
+          "team_key": "frc236"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 117,
+          "qualifying_points_individual": [
+            44,
+            53
+          ],
+          "qualifying_points_total": 97,
+          "rank": 10,
+          "team_key": "frc2877"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 102,
+          "qualifying_points_individual": [
+            60.0,
+            39
+          ],
+          "qualifying_points_total": 99,
+          "rank": 11,
+          "team_key": "frc3146"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 81,
+          "qualifying_points_individual": [
+            58,
+            53
+          ],
+          "qualifying_points_total": 111,
+          "rank": 12,
+          "team_key": "frc125"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 60,
+          "qualifying_points_individual": [
+            73.0,
+            58
+          ],
+          "qualifying_points_total": 131,
+          "rank": 13,
+          "team_key": "frc4564"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 87,
+          "qualifying_points_individual": [
+            52,
+            52
+          ],
+          "qualifying_points_total": 104,
+          "rank": 14,
+          "team_key": "frc558"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 114,
+          "qualifying_points_individual": [
+            29,
+            44.0
+          ],
+          "qualifying_points_total": 73,
+          "rank": 15,
+          "team_key": "frc501"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 69,
+          "qualifying_points_individual": [
+            44,
+            67.0
+          ],
+          "qualifying_points_total": 111,
+          "rank": 16,
+          "team_key": "frc246"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 93,
+          "qualifying_points_individual": [
+            50,
+            35
+          ],
+          "qualifying_points_total": 85,
+          "rank": 17,
+          "team_key": "frc88"
+        },
+        {
+          "age_bonus": 10,
+          "dcmp_points": 42,
+          "qualifying_points_individual": [
+            49.0,
+            73.0
+          ],
+          "qualifying_points_total": 122,
+          "rank": 18,
+          "team_key": "frc5687"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 96,
+          "qualifying_points_individual": [
+            39,
+            37
+          ],
+          "qualifying_points_total": 76,
+          "rank": 19,
+          "team_key": "frc3467"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            53,
+            29
+          ],
+          "qualifying_points_total": 82,
+          "rank": 20,
+          "team_key": "frc319"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 93,
+          "qualifying_points_individual": [
+            36,
+            38
+          ],
+          "qualifying_points_total": 74,
+          "rank": 21,
+          "team_key": "frc2836"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 93,
+          "qualifying_points_individual": [
+            51,
+            22
+          ],
+          "qualifying_points_total": 73,
+          "rank": 22,
+          "team_key": "frc237"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 48,
+          "qualifying_points_individual": [
+            55,
+            63.0
+          ],
+          "qualifying_points_total": 118,
+          "rank": 23,
+          "team_key": "frc133"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 45,
+          "qualifying_points_individual": [
+            55,
+            61
+          ],
+          "qualifying_points_total": 116,
+          "rank": 24,
+          "team_key": "frc61"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 39,
+          "qualifying_points_individual": [
+            59,
+            61
+          ],
+          "qualifying_points_total": 120,
+          "rank": 25,
+          "team_key": "frc58"
+        }
+      ],
+      "2016": [
+        {
+          "age_bonus": 0,
+          "dcmp_points": 216,
+          "qualifying_points_individual": [
+            63,
+            45
+          ],
+          "qualifying_points_total": 108,
+          "rank": 1,
+          "team_key": "frc125"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 186,
+          "qualifying_points_individual": [
+            62,
+            73
+          ],
+          "qualifying_points_total": 135,
+          "rank": 2,
+          "team_key": "frc195"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 165,
+          "qualifying_points_individual": [
+            74,
+            78
+          ],
+          "qualifying_points_total": 152,
+          "rank": 3,
+          "team_key": "frc1519"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 168,
+          "qualifying_points_individual": [
+            49,
+            72
+          ],
+          "qualifying_points_total": 121,
+          "rank": 4,
+          "team_key": "frc133"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 174,
+          "qualifying_points_individual": [
+            53,
+            48
+          ],
+          "qualifying_points_total": 101,
+          "rank": 5,
+          "team_key": "frc4564"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 153,
+          "qualifying_points_individual": [
+            53,
+            57
+          ],
+          "qualifying_points_total": 110,
+          "rank": 6,
+          "team_key": "frc230"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 81,
+          "qualifying_points_individual": [
+            73,
+            73
+          ],
+          "qualifying_points_total": 146,
+          "rank": 7,
+          "team_key": "frc558"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            68,
+            68
+          ],
+          "qualifying_points_total": 136,
+          "rank": 8,
+          "team_key": "frc319"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 108,
+          "qualifying_points_individual": [
+            66,
+            49
+          ],
+          "qualifying_points_total": 115,
+          "rank": 9,
+          "team_key": "frc177"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 123,
+          "qualifying_points_individual": [
+            56,
+            42
+          ],
+          "qualifying_points_total": 98,
+          "rank": 10,
+          "team_key": "frc1768"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 96,
+          "qualifying_points_individual": [
+            63,
+            61
+          ],
+          "qualifying_points_total": 124,
+          "rank": 11,
+          "team_key": "frc238"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 123,
+          "qualifying_points_individual": [
+            51,
+            34
+          ],
+          "qualifying_points_total": 85,
+          "rank": 12,
+          "team_key": "frc126"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 69,
+          "qualifying_points_individual": [
+            70,
+            68
+          ],
+          "qualifying_points_total": 138,
+          "rank": 13,
+          "team_key": "frc1058"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 138,
+          "qualifying_points_individual": [
+            28,
+            40
+          ],
+          "qualifying_points_total": 68,
+          "rank": 14,
+          "team_key": "frc2168"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 96,
+          "qualifying_points_individual": [
+            38,
+            60
+          ],
+          "qualifying_points_total": 98,
+          "rank": 15,
+          "team_key": "frc166"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 99,
+          "qualifying_points_individual": [
+            30,
+            58
+          ],
+          "qualifying_points_total": 88,
+          "rank": 16,
+          "team_key": "frc1153"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 81,
+          "qualifying_points_individual": [
+            46,
+            49
+          ],
+          "qualifying_points_total": 95,
+          "rank": 17,
+          "team_key": "frc176"
+        },
+        {
+          "age_bonus": 10,
+          "dcmp_points": 72,
+          "qualifying_points_individual": [
+            51,
+            33
+          ],
+          "qualifying_points_total": 84,
+          "rank": 18,
+          "team_key": "frc6153"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 51,
+          "qualifying_points_individual": [
+            56,
+            56
+          ],
+          "qualifying_points_total": 112,
+          "rank": 19,
+          "team_key": "frc4905"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 84,
+          "qualifying_points_individual": [
+            27,
+            45
+          ],
+          "qualifying_points_total": 72,
+          "rank": 20,
+          "team_key": "frc1124"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 39,
+          "qualifying_points_individual": [
+            60,
+            53
+          ],
+          "qualifying_points_total": 113,
+          "rank": 21,
+          "team_key": "frc78"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 72,
+          "qualifying_points_individual": [
+            51,
+            29
+          ],
+          "qualifying_points_total": 80,
+          "rank": 22,
+          "team_key": "frc2648"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 69,
+          "qualifying_points_individual": [
+            29,
+            45
+          ],
+          "qualifying_points_total": 74,
+          "rank": 23,
+          "team_key": "frc172"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 66,
+          "qualifying_points_individual": [
+            46,
+            30
+          ],
+          "qualifying_points_total": 76,
+          "rank": 24,
+          "team_key": "frc175"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 78,
+          "qualifying_points_individual": [
+            32,
+            32
+          ],
+          "qualifying_points_total": 64,
+          "rank": 25,
+          "team_key": "frc999"
+        }
+      ],
+      "2017": [
+        {
+          "age_bonus": 0,
+          "dcmp_points": 219,
+          "qualifying_points_individual": [
+            62,
+            73
+          ],
+          "qualifying_points_total": 135,
+          "rank": 1,
+          "team_key": "frc2168"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 201,
+          "qualifying_points_individual": [
+            46,
+            68
+          ],
+          "qualifying_points_total": 114,
+          "rank": 2,
+          "team_key": "frc195"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 150,
+          "qualifying_points_individual": [
+            61,
+            74
+          ],
+          "qualifying_points_total": 135,
+          "rank": 3,
+          "team_key": "frc1519"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 141,
+          "qualifying_points_individual": [
+            73,
+            63
+          ],
+          "qualifying_points_total": 136,
+          "rank": 4,
+          "team_key": "frc5687"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 159,
+          "qualifying_points_individual": [
+            67,
+            49
+          ],
+          "qualifying_points_total": 116,
+          "rank": 5,
+          "team_key": "frc125"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 123,
+          "qualifying_points_individual": [
+            35,
+            73
+          ],
+          "qualifying_points_total": 108,
+          "rank": 6,
+          "team_key": "frc558"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 162,
+          "qualifying_points_individual": [
+            40,
+            27
+          ],
+          "qualifying_points_total": 67,
+          "rank": 7,
+          "team_key": "frc3719"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 141,
+          "qualifying_points_individual": [
+            41,
+            40
+          ],
+          "qualifying_points_total": 81,
+          "rank": 8,
+          "team_key": "frc78"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 129,
+          "qualifying_points_individual": [
+            26,
+            63
+          ],
+          "qualifying_points_total": 89,
+          "rank": 9,
+          "team_key": "frc1073"
+        },
+        {
+          "age_bonus": 10,
+          "dcmp_points": 108,
+          "qualifying_points_individual": [
+            40,
+            55
+          ],
+          "qualifying_points_total": 95,
+          "rank": 10,
+          "team_key": "frc6328"
+        },
+        {
+          "age_bonus": 5,
+          "dcmp_points": 117,
+          "qualifying_points_individual": [
+            28,
+            45
+          ],
+          "qualifying_points_total": 73,
+          "rank": 11,
+          "team_key": "frc5813"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 102,
+          "qualifying_points_individual": [
+            37,
+            56
+          ],
+          "qualifying_points_total": 93,
+          "rank": 12,
+          "team_key": "frc2648"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 78,
+          "qualifying_points_individual": [
+            53,
+            64
+          ],
+          "qualifying_points_total": 117,
+          "rank": 13,
+          "team_key": "frc95"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 96,
+          "qualifying_points_individual": [
+            65,
+            27
+          ],
+          "qualifying_points_total": 92,
+          "rank": 14,
+          "team_key": "frc1058"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 105,
+          "qualifying_points_individual": [
+            43,
+            38
+          ],
+          "qualifying_points_total": 81,
+          "rank": 15,
+          "team_key": "frc4564"
+        },
+        {
+          "age_bonus": 10,
+          "dcmp_points": 69,
+          "qualifying_points_individual": [
+            33,
+            73
+          ],
+          "qualifying_points_total": 106,
+          "rank": 16,
+          "team_key": "frc6763"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 93,
+          "qualifying_points_individual": [
+            58,
+            34
+          ],
+          "qualifying_points_total": 92,
+          "rank": 17,
+          "team_key": "frc3464"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 102,
+          "qualifying_points_individual": [
+            31,
+            48
+          ],
+          "qualifying_points_total": 79,
+          "rank": 18,
+          "team_key": "frc1153"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 81,
+          "qualifying_points_individual": [
+            34,
+            47
+          ],
+          "qualifying_points_total": 81,
+          "rank": 19,
+          "team_key": "frc501"
+        },
+        {
+          "age_bonus": 10,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            14,
+            47
+          ],
+          "qualifying_points_total": 61,
+          "rank": 20,
+          "team_key": "frc6329"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 45,
+          "qualifying_points_individual": [
+            58,
+            55
+          ],
+          "qualifying_points_total": 113,
+          "rank": 21,
+          "team_key": "frc2370"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 54,
+          "qualifying_points_individual": [
+            61,
+            41
+          ],
+          "qualifying_points_total": 102,
+          "rank": 22,
+          "team_key": "frc2084"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 69,
+          "qualifying_points_individual": [
+            55,
+            31
+          ],
+          "qualifying_points_total": 86,
+          "rank": 23,
+          "team_key": "frc177"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 54,
+          "qualifying_points_individual": [
+            53,
+            43
+          ],
+          "qualifying_points_total": 96,
+          "rank": 24,
+          "team_key": "frc1721"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 54,
+          "qualifying_points_individual": [
+            34,
+            59
+          ],
+          "qualifying_points_total": 93,
+          "rank": 25,
+          "team_key": "frc1071"
+        }
+      ],
+      "2018": [
+        {
+          "age_bonus": 0,
+          "dcmp_points": 219,
+          "qualifying_points_individual": [
+            73,
+            73
+          ],
+          "qualifying_points_total": 146,
+          "rank": 1,
+          "team_key": "frc319"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 219,
+          "qualifying_points_individual": [
+            71,
+            73
+          ],
+          "qualifying_points_total": 144,
+          "rank": 2,
+          "team_key": "frc195"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 168,
+          "qualifying_points_individual": [
+            59,
+            67
+          ],
+          "qualifying_points_total": 126,
+          "rank": 3,
+          "team_key": "frc177"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 159,
+          "qualifying_points_individual": [
+            68,
+            59
+          ],
+          "qualifying_points_total": 127,
+          "rank": 4,
+          "team_key": "frc176"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 132,
+          "qualifying_points_individual": [
+            68,
+            78
+          ],
+          "qualifying_points_total": 146,
+          "rank": 5,
+          "team_key": "frc133"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 138,
+          "qualifying_points_individual": [
+            73,
+            61
+          ],
+          "qualifying_points_total": 134,
+          "rank": 6,
+          "team_key": "frc230"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 153,
+          "qualifying_points_individual": [
+            65,
+            49
+          ],
+          "qualifying_points_total": 114,
+          "rank": 7,
+          "team_key": "frc125"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 135,
+          "qualifying_points_individual": [
+            58,
+            61
+          ],
+          "qualifying_points_total": 119,
+          "rank": 8,
+          "team_key": "frc78"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 93,
+          "qualifying_points_individual": [
+            72,
+            69
+          ],
+          "qualifying_points_total": 141,
+          "rank": 9,
+          "team_key": "frc5687"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 87,
+          "qualifying_points_individual": [
+            63,
+            70
+          ],
+          "qualifying_points_total": 133,
+          "rank": 10,
+          "team_key": "frc1519"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 75,
+          "qualifying_points_individual": [
+            73,
+            61
+          ],
+          "qualifying_points_total": 134,
+          "rank": 11,
+          "team_key": "frc238"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 66,
+          "qualifying_points_individual": [
+            69,
+            71
+          ],
+          "qualifying_points_total": 140,
+          "rank": 12,
+          "team_key": "frc88"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 69,
+          "qualifying_points_individual": [
+            68,
+            61
+          ],
+          "qualifying_points_total": 129,
+          "rank": 13,
+          "team_key": "frc4564"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 129,
+          "qualifying_points_individual": [
+            26,
+            40
+          ],
+          "qualifying_points_total": 66,
+          "rank": 14,
+          "team_key": "frc175"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 57,
+          "qualifying_points_individual": [
+            63,
+            70
+          ],
+          "qualifying_points_total": 133,
+          "rank": 15,
+          "team_key": "frc2168"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 120,
+          "qualifying_points_individual": [
+            19,
+            46
+          ],
+          "qualifying_points_total": 65,
+          "rank": 16,
+          "team_key": "frc5846"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 93,
+          "qualifying_points_individual": [
+            37,
+            50
+          ],
+          "qualifying_points_total": 87,
+          "rank": 17,
+          "team_key": "frc4557"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            39,
+            48
+          ],
+          "qualifying_points_total": 87,
+          "rank": 18,
+          "team_key": "frc3236"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 63,
+          "qualifying_points_individual": [
+            47,
+            63
+          ],
+          "qualifying_points_total": 110,
+          "rank": 19,
+          "team_key": "frc95"
+        },
+        {
+          "age_bonus": 5,
+          "dcmp_points": 57,
+          "qualifying_points_individual": [
+            33,
+            73
+          ],
+          "qualifying_points_total": 106,
+          "rank": 20,
+          "team_key": "frc6328"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 84,
+          "qualifying_points_individual": [
+            29,
+            48
+          ],
+          "qualifying_points_total": 77,
+          "rank": 21,
+          "team_key": "frc237"
+        },
+        {
+          "age_bonus": 10,
+          "dcmp_points": 36,
+          "qualifying_points_individual": [
+            63,
+            52
+          ],
+          "qualifying_points_total": 115,
+          "rank": 22,
+          "team_key": "frc6933"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 78,
+          "qualifying_points_individual": [
+            33,
+            46
+          ],
+          "qualifying_points_total": 79,
+          "rank": 23,
+          "team_key": "frc1729"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 63,
+          "qualifying_points_individual": [
+            32,
+            61
+          ],
+          "qualifying_points_total": 93,
+          "rank": 24,
+          "team_key": "frc2877"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 48,
+          "qualifying_points_individual": [
+            59,
+            46
+          ],
+          "qualifying_points_total": 105,
+          "rank": 25,
+          "team_key": "frc1058"
+        }
+      ],
+      "2019": [
+        {
+          "age_bonus": 0,
+          "dcmp_points": 207,
+          "qualifying_points_individual": [
+            71,
+            72
+          ],
+          "qualifying_points_total": 143,
+          "rank": 1,
+          "team_key": "frc2168"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 231,
+          "qualifying_points_individual": [
+            37,
+            70
+          ],
+          "qualifying_points_total": 107,
+          "rank": 2,
+          "team_key": "frc125"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 162,
+          "qualifying_points_individual": [
+            71,
+            75
+          ],
+          "qualifying_points_total": 146,
+          "rank": 3,
+          "team_key": "frc195"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 174,
+          "qualifying_points_individual": [
+            69,
+            51
+          ],
+          "qualifying_points_total": 120,
+          "rank": 4,
+          "team_key": "frc230"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 156,
+          "qualifying_points_individual": [
+            63,
+            73
+          ],
+          "qualifying_points_total": 136,
+          "rank": 5,
+          "team_key": "frc176"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 147,
+          "qualifying_points_individual": [
+            72,
+            73
+          ],
+          "qualifying_points_total": 145,
+          "rank": 6,
+          "team_key": "frc5687"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 159,
+          "qualifying_points_individual": [
+            70,
+            59
+          ],
+          "qualifying_points_total": 129,
+          "rank": 7,
+          "team_key": "frc319"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 135,
+          "qualifying_points_individual": [
+            73,
+            59
+          ],
+          "qualifying_points_total": 132,
+          "rank": 8,
+          "team_key": "frc133"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 81,
+          "qualifying_points_individual": [
+            76,
+            78
+          ],
+          "qualifying_points_total": 154,
+          "rank": 9,
+          "team_key": "frc78"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 138,
+          "qualifying_points_individual": [
+            47,
+            37
+          ],
+          "qualifying_points_total": 84,
+          "rank": 10,
+          "team_key": "frc558"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 78,
+          "qualifying_points_individual": [
+            73,
+            60
+          ],
+          "qualifying_points_total": 133,
+          "rank": 11,
+          "team_key": "frc1519"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 75,
+          "qualifying_points_individual": [
+            61,
+            68
+          ],
+          "qualifying_points_total": 129,
+          "rank": 12,
+          "team_key": "frc1922"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            57,
+            57
+          ],
+          "qualifying_points_total": 114,
+          "rank": 13,
+          "team_key": "frc1768"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 81,
+          "qualifying_points_individual": [
+            45,
+            69
+          ],
+          "qualifying_points_total": 114,
+          "rank": 14,
+          "team_key": "frc2370"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 81,
+          "qualifying_points_individual": [
+            51,
+            43
+          ],
+          "qualifying_points_total": 94,
+          "rank": 15,
+          "team_key": "frc1153"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 60,
+          "qualifying_points_individual": [
+            43,
+            68
+          ],
+          "qualifying_points_total": 111,
+          "rank": 16,
+          "team_key": "frc95"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 87,
+          "qualifying_points_individual": [
+            30,
+            50
+          ],
+          "qualifying_points_total": 80,
+          "rank": 17,
+          "team_key": "frc3555"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 93,
+          "qualifying_points_individual": [
+            30,
+            41
+          ],
+          "qualifying_points_total": 71,
+          "rank": 18,
+          "team_key": "frc4311"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 63,
+          "qualifying_points_individual": [
+            33,
+            62
+          ],
+          "qualifying_points_total": 95,
+          "rank": 19,
+          "team_key": "frc1729"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 78,
+          "qualifying_points_individual": [
+            21,
+            58
+          ],
+          "qualifying_points_total": 79,
+          "rank": 20,
+          "team_key": "frc509"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 81,
+          "qualifying_points_individual": [
+            44,
+            30
+          ],
+          "qualifying_points_total": 74,
+          "rank": 21,
+          "team_key": "frc237"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 66,
+          "qualifying_points_individual": [
+            47,
+            39
+          ],
+          "qualifying_points_total": 86,
+          "rank": 22,
+          "team_key": "frc1073"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 45,
+          "qualifying_points_individual": [
+            53,
+            51
+          ],
+          "qualifying_points_total": 104,
+          "rank": 23,
+          "team_key": "frc69"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 42,
+          "qualifying_points_individual": [
+            35,
+            69
+          ],
+          "qualifying_points_total": 104,
+          "rank": 24,
+          "team_key": "frc4909"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 30,
+          "qualifying_points_individual": [
+            58,
+            57
+          ],
+          "qualifying_points_total": 115,
+          "rank": 25,
+          "team_key": "frc88"
+        }
+      ],
+      "2022": [
+        {
+          "age_bonus": 0,
+          "dcmp_points": 243,
+          "qualifying_points_individual": [
+            73,
+            73
+          ],
+          "qualifying_points_total": 146,
+          "rank": 1,
+          "team_key": "frc176"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 249,
+          "qualifying_points_individual": [
+            46,
+            73
+          ],
+          "qualifying_points_total": 119,
+          "rank": 2,
+          "team_key": "frc238"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 219,
+          "qualifying_points_individual": [
+            61,
+            73
+          ],
+          "qualifying_points_total": 134,
+          "rank": 3,
+          "team_key": "frc230"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 195,
+          "qualifying_points_individual": [
+            65,
+            70
+          ],
+          "qualifying_points_total": 135,
+          "rank": 4,
+          "team_key": "frc177"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 180,
+          "qualifying_points_individual": [
+            46,
+            72
+          ],
+          "qualifying_points_total": 118,
+          "rank": 5,
+          "team_key": "frc133"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 174,
+          "qualifying_points_individual": [
+            63,
+            59
+          ],
+          "qualifying_points_total": 122,
+          "rank": 6,
+          "team_key": "frc6329"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 168,
+          "qualifying_points_individual": [
+            60,
+            59
+          ],
+          "qualifying_points_total": 119,
+          "rank": 7,
+          "team_key": "frc95"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 168,
+          "qualifying_points_individual": [
+            48,
+            43
+          ],
+          "qualifying_points_total": 91,
+          "rank": 8,
+          "team_key": "frc131"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 138,
+          "qualifying_points_individual": [
+            50,
+            63
+          ],
+          "qualifying_points_total": 113,
+          "rank": 9,
+          "team_key": "frc4905"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 129,
+          "qualifying_points_individual": [
+            57,
+            59
+          ],
+          "qualifying_points_total": 116,
+          "rank": 10,
+          "team_key": "frc1153"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 141,
+          "qualifying_points_individual": [
+            42,
+            61
+          ],
+          "qualifying_points_total": 103,
+          "rank": 11,
+          "team_key": "frc5687"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 144,
+          "qualifying_points_individual": [
+            42,
+            40
+          ],
+          "qualifying_points_total": 82,
+          "rank": 12,
+          "team_key": "frc319"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 123,
+          "qualifying_points_individual": [
+            36,
+            46
+          ],
+          "qualifying_points_total": 82,
+          "rank": 13,
+          "team_key": "frc1768"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 123,
+          "qualifying_points_individual": [
+            22,
+            58
+          ],
+          "qualifying_points_total": 80,
+          "rank": 14,
+          "team_key": "frc88"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 96,
+          "qualifying_points_individual": [
+            34,
+            71
+          ],
+          "qualifying_points_total": 105,
+          "rank": 15,
+          "team_key": "frc2370"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 144,
+          "qualifying_points_individual": [
+            39,
+            17
+          ],
+          "qualifying_points_total": 56,
+          "rank": 16,
+          "team_key": "frc5846"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            35,
+            71
+          ],
+          "qualifying_points_total": 106,
+          "rank": 17,
+          "team_key": "frc1073"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            48,
+            58
+          ],
+          "qualifying_points_total": 106,
+          "rank": 18,
+          "team_key": "frc228"
+        },
+        {
+          "age_bonus": 5,
+          "dcmp_points": 99,
+          "qualifying_points_individual": [
+            56,
+            36
+          ],
+          "qualifying_points_total": 92,
+          "rank": 19,
+          "team_key": "frc8085"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 135,
+          "qualifying_points_individual": [
+            27,
+            26
+          ],
+          "qualifying_points_total": 53,
+          "rank": 20,
+          "team_key": "frc4048"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 78,
+          "qualifying_points_individual": [
+            39,
+            70
+          ],
+          "qualifying_points_total": 109,
+          "rank": 21,
+          "team_key": "frc195"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 102,
+          "qualifying_points_individual": [
+            36,
+            49
+          ],
+          "qualifying_points_total": 85,
+          "rank": 22,
+          "team_key": "frc78"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 66,
+          "qualifying_points_individual": [
+            59,
+            60
+          ],
+          "qualifying_points_total": 119,
+          "rank": 23,
+          "team_key": "frc4564"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 30,
+          "qualifying_points_individual": [
+            75,
+            76
+          ],
+          "qualifying_points_total": 151,
+          "rank": 24,
+          "team_key": "frc6328"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 129,
+          "qualifying_points_individual": [
+            31,
+            21
+          ],
+          "qualifying_points_total": 52,
+          "rank": 25,
+          "team_key": "frc6153"
+        }
+      ],
+      "2023": [
+        {
+          "age_bonus": 0,
+          "dcmp_points": 219,
+          "qualifying_points_individual": [
+            63,
+            68
+          ],
+          "qualifying_points_total": 131,
+          "rank": 1,
+          "team_key": "frc176"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 249,
+          "qualifying_points_individual": [
+            26,
+            74
+          ],
+          "qualifying_points_total": 100,
+          "rank": 2,
+          "team_key": "frc1757"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 198,
+          "qualifying_points_individual": [
+            58,
+            67
+          ],
+          "qualifying_points_total": 125,
+          "rank": 3,
+          "team_key": "frc133"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 204,
+          "qualifying_points_individual": [
+            60,
+            48
+          ],
+          "qualifying_points_total": 108,
+          "rank": 4,
+          "team_key": "frc7407"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 186,
+          "qualifying_points_individual": [
+            77,
+            48
+          ],
+          "qualifying_points_total": 125,
+          "rank": 5,
+          "team_key": "frc6328"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 159,
+          "qualifying_points_individual": [
+            72,
+            72
+          ],
+          "qualifying_points_total": 144,
+          "rank": 6,
+          "team_key": "frc195"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 168,
+          "qualifying_points_individual": [
+            62,
+            55
+          ],
+          "qualifying_points_total": 117,
+          "rank": 7,
+          "team_key": "frc177"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 126,
+          "qualifying_points_individual": [
+            73,
+            73
+          ],
+          "qualifying_points_total": 146,
+          "rank": 8,
+          "team_key": "frc6329"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 150,
+          "qualifying_points_individual": [
+            69,
+            52
+          ],
+          "qualifying_points_total": 121,
+          "rank": 9,
+          "team_key": "frc5687"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 135,
+          "qualifying_points_individual": [
+            70,
+            58
+          ],
+          "qualifying_points_total": 128,
+          "rank": 10,
+          "team_key": "frc8085"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 147,
+          "qualifying_points_individual": [
+            69,
+            41
+          ],
+          "qualifying_points_total": 110,
+          "rank": 11,
+          "team_key": "frc230"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 120,
+          "qualifying_points_individual": [
+            73,
+            62
+          ],
+          "qualifying_points_total": 135,
+          "rank": 12,
+          "team_key": "frc3467"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 141,
+          "qualifying_points_individual": [
+            42,
+            70
+          ],
+          "qualifying_points_total": 112,
+          "rank": 13,
+          "team_key": "frc125"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 162,
+          "qualifying_points_individual": [
+            50,
+            36
+          ],
+          "qualifying_points_total": 86,
+          "rank": 14,
+          "team_key": "frc1699"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 144,
+          "qualifying_points_individual": [
+            51,
+            44
+          ],
+          "qualifying_points_total": 95,
+          "rank": 15,
+          "team_key": "frc238"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 132,
+          "qualifying_points_individual": [
+            52,
+            52
+          ],
+          "qualifying_points_total": 104,
+          "rank": 16,
+          "team_key": "frc319"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 93,
+          "qualifying_points_individual": [
+            66,
+            70
+          ],
+          "qualifying_points_total": 136,
+          "rank": 17,
+          "team_key": "frc88"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 117,
+          "qualifying_points_individual": [
+            43,
+            63
+          ],
+          "qualifying_points_total": 106,
+          "rank": 18,
+          "team_key": "frc1768"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 114,
+          "qualifying_points_individual": [
+            52,
+            53
+          ],
+          "qualifying_points_total": 105,
+          "rank": 19,
+          "team_key": "frc95"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 117,
+          "qualifying_points_individual": [
+            41,
+            44
+          ],
+          "qualifying_points_total": 85,
+          "rank": 20,
+          "team_key": "frc4564"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 87,
+          "qualifying_points_individual": [
+            38,
+            69
+          ],
+          "qualifying_points_total": 107,
+          "rank": 21,
+          "team_key": "frc2370"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 69,
+          "qualifying_points_individual": [
+            58,
+            60
+          ],
+          "qualifying_points_total": 118,
+          "rank": 22,
+          "team_key": "frc78"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 102,
+          "qualifying_points_individual": [
+            29,
+            53
+          ],
+          "qualifying_points_total": 82,
+          "rank": 23,
+          "team_key": "frc8046"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 87,
+          "qualifying_points_individual": [
+            50,
+            46
+          ],
+          "qualifying_points_total": 96,
+          "rank": 24,
+          "team_key": "frc1073"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 78,
+          "qualifying_points_individual": [
+            49,
+            48
+          ],
+          "qualifying_points_total": 97,
+          "rank": 25,
+          "team_key": "frc2713"
+        }
+      ],
+      "2024": [
+        {
+          "age_bonus": 0,
+          "dcmp_points": 189,
+          "qualifying_points_individual": [
+            77,
+            73
+          ],
+          "qualifying_points_total": 150,
+          "rank": 1,
+          "team_key": "frc125"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 183,
+          "qualifying_points_individual": [
+            71,
+            76
+          ],
+          "qualifying_points_total": 147,
+          "rank": 2,
+          "team_key": "frc6329"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 207,
+          "qualifying_points_individual": [
+            50,
+            58
+          ],
+          "qualifying_points_total": 108,
+          "rank": 3,
+          "team_key": "frc8013"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 174,
+          "qualifying_points_individual": [
+            68,
+            71
+          ],
+          "qualifying_points_total": 139,
+          "rank": 4,
+          "team_key": "frc5687"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 168,
+          "qualifying_points_individual": [
+            64,
+            73
+          ],
+          "qualifying_points_total": 137,
+          "rank": 5,
+          "team_key": "frc177"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 198,
+          "qualifying_points_individual": [
+            37,
+            51
+          ],
+          "qualifying_points_total": 88,
+          "rank": 6,
+          "team_key": "frc131"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 189,
+          "qualifying_points_individual": [
+            44,
+            51
+          ],
+          "qualifying_points_total": 95,
+          "rank": 7,
+          "team_key": "frc195"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 174,
+          "qualifying_points_individual": [
+            38,
+            69
+          ],
+          "qualifying_points_total": 107,
+          "rank": 8,
+          "team_key": "frc3467"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 129,
+          "qualifying_points_individual": [
+            64,
+            73
+          ],
+          "qualifying_points_total": 137,
+          "rank": 9,
+          "team_key": "frc6328"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 132,
+          "qualifying_points_individual": [
+            57,
+            73
+          ],
+          "qualifying_points_total": 130,
+          "rank": 10,
+          "team_key": "frc8085"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 99,
+          "qualifying_points_individual": [
+            73,
+            72
+          ],
+          "qualifying_points_total": 145,
+          "rank": 11,
+          "team_key": "frc176"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 126,
+          "qualifying_points_individual": [
+            50,
+            51
+          ],
+          "qualifying_points_total": 101,
+          "rank": 12,
+          "team_key": "frc2067"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 132,
+          "qualifying_points_individual": [
+            34,
+            59
+          ],
+          "qualifying_points_total": 93,
+          "rank": 13,
+          "team_key": "frc58"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 102,
+          "qualifying_points_individual": [
+            56,
+            62
+          ],
+          "qualifying_points_total": 118,
+          "rank": 14,
+          "team_key": "frc133"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            73,
+            54
+          ],
+          "qualifying_points_total": 127,
+          "rank": 15,
+          "team_key": "frc78"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 135,
+          "qualifying_points_individual": [
+            41,
+            33
+          ],
+          "qualifying_points_total": 74,
+          "rank": 16,
+          "team_key": "frc1729"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 99,
+          "qualifying_points_individual": [
+            54,
+            55
+          ],
+          "qualifying_points_total": 109,
+          "rank": 17,
+          "team_key": "frc1153"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 126,
+          "qualifying_points_individual": [
+            40,
+            41
+          ],
+          "qualifying_points_total": 81,
+          "rank": 18,
+          "team_key": "frc5813"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 105,
+          "qualifying_points_individual": [
+            66,
+            35
+          ],
+          "qualifying_points_total": 101,
+          "rank": 19,
+          "team_key": "frc175"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 90,
+          "qualifying_points_individual": [
+            44,
+            69
+          ],
+          "qualifying_points_total": 113,
+          "rank": 20,
+          "team_key": "frc1768"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 111,
+          "qualifying_points_individual": [
+            43,
+            46
+          ],
+          "qualifying_points_total": 89,
+          "rank": 21,
+          "team_key": "frc3464"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 105,
+          "qualifying_points_individual": [
+            40,
+            55
+          ],
+          "qualifying_points_total": 95,
+          "rank": 22,
+          "team_key": "frc1699"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 78,
+          "qualifying_points_individual": [
+            63,
+            56
+          ],
+          "qualifying_points_total": 119,
+          "rank": 23,
+          "team_key": "frc1058"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 111,
+          "qualifying_points_individual": [
+            34,
+            50
+          ],
+          "qualifying_points_total": 84,
+          "rank": 24,
+          "team_key": "frc7407"
+        },
+        {
+          "age_bonus": 0,
+          "dcmp_points": 117,
+          "qualifying_points_individual": [
+            47,
+            26
+          ],
+          "qualifying_points_total": 73,
+          "rank": 25,
+          "team_key": "frc5112"
+        }
+      ]
+    },
+    "overall": [
+      {
+        "age_bonus": 0,
+        "dcmp_points": 179.66666666666666,
+        "qualifying_points_individual": [
+          52.77777777777778,
+          69.55555555555556
+        ],
+        "qualifying_points_total": 122.33333333333333,
+        "rank": 5.222222222222222,
+        "team_key": "frc195"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 134.0,
+        "qualifying_points_individual": [
+          66.33333333333333,
+          70.16666666666667
+        ],
+        "qualifying_points_total": 136.5,
+        "rank": 5.833333333333333,
+        "team_key": "frc1519"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 139.0,
+        "qualifying_points_individual": [
+          60.22222222222222,
+          51.888888888888886
+        ],
+        "qualifying_points_total": 112.11111111111111,
+        "rank": 11.777777777777779,
+        "team_key": "frc230"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 116.625,
+        "qualifying_points_individual": [
+          61.625,
+          61.625
+        ],
+        "qualifying_points_total": 123.25,
+        "rank": 12.0,
+        "team_key": "frc5687"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 157.125,
+        "qualifying_points_individual": [
+          52.888888888888886,
+          61.0
+        ],
+        "qualifying_points_total": 113.88888888888889,
+        "rank": 12.11111111111111,
+        "team_key": "frc125"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 122.0,
+        "qualifying_points_individual": [
+          61.0,
+          55.666666666666664
+        ],
+        "qualifying_points_total": 116.66666666666667,
+        "rank": 13.0,
+        "team_key": "frc8085"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 117.66666666666667,
+        "qualifying_points_individual": [
+          53.44444444444444,
+          63.77777777777778
+        ],
+        "qualifying_points_total": 117.22222222222223,
+        "rank": 13.11111111111111,
+        "team_key": "frc133"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 107.5,
+        "qualifying_points_individual": [
+          52.166666666666664,
+          58.333333333333336
+        ],
+        "qualifying_points_total": 110.5,
+        "rank": 18.166666666666668,
+        "team_key": "frc6329"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 91.0,
+        "qualifying_points_individual": [
+          54.0,
+          55.888888888888886
+        ],
+        "qualifying_points_total": 109.88888888888889,
+        "rank": 18.444444444444443,
+        "team_key": "frc78"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 137.25,
+        "qualifying_points_individual": [
+          55.55555555555556,
+          53.44444444444444
+        ],
+        "qualifying_points_total": 109.0,
+        "rank": 19.666666666666668,
+        "team_key": "frc177"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 127.875,
+        "qualifying_points_individual": [
+          57.333333333333336,
+          57.0
+        ],
+        "qualifying_points_total": 114.33333333333333,
+        "rank": 21.77777777777778,
+        "team_key": "frc176"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 89.0,
+        "qualifying_points_individual": [
+          50.833333333333336,
+          61.5
+        ],
+        "qualifying_points_total": 112.33333333333333,
+        "rank": 22.0,
+        "team_key": "frc6328"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 114.375,
+        "qualifying_points_individual": [
+          52.44444444444444,
+          47.111111111111114
+        ],
+        "qualifying_points_total": 99.55555555555556,
+        "rank": 25.0,
+        "team_key": "frc319"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 90.0,
+        "qualifying_points_individual": [
+          50.111111111111114,
+          46.333333333333336
+        ],
+        "qualifying_points_total": 96.44444444444444,
+        "rank": 25.555555555555557,
+        "team_key": "frc4564"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 86.0,
+        "qualifying_points_individual": [
+          38.77777777777778,
+          42.888888888888886
+        ],
+        "qualifying_points_total": 81.66666666666667,
+        "rank": 26.0,
+        "team_key": "frc2067"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 121.71428571428571,
+        "qualifying_points_individual": [
+          47.111111111111114,
+          51.333333333333336
+        ],
+        "qualifying_points_total": 98.44444444444444,
+        "rank": 29.666666666666668,
+        "team_key": "frc2168"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 117.0,
+        "qualifying_points_individual": [
+          46.25,
+          50.25
+        ],
+        "qualifying_points_total": 96.5,
+        "rank": 31.0,
+        "team_key": "frc7407"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 67.0,
+        "qualifying_points_individual": [
+          45.857142857142854,
+          47.857142857142854
+        ],
+        "qualifying_points_total": 93.71428571428571,
+        "rank": 31.857142857142858,
+        "team_key": "frc5813"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 96.0,
+        "qualifying_points_individual": [
+          41.44444444444444,
+          48.0
+        ],
+        "qualifying_points_total": 89.44444444444444,
+        "rank": 33.111111111111114,
+        "team_key": "frc558"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 69.75,
+        "qualifying_points_individual": [
+          44.888888888888886,
+          50.55555555555556
+        ],
+        "qualifying_points_total": 95.44444444444444,
+        "rank": 33.666666666666664,
+        "team_key": "frc95"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 68.625,
+        "qualifying_points_individual": [
+          48.22222222222222,
+          47.22222222222222
+        ],
+        "qualifying_points_total": 95.44444444444444,
+        "rank": 34.666666666666664,
+        "team_key": "frc88"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 88.125,
+        "qualifying_points_individual": [
+          33.77777777777778,
+          45.888888888888886
+        ],
+        "qualifying_points_total": 79.66666666666667,
+        "rank": 35.333333333333336,
+        "team_key": "frc1153"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 97.28571428571429,
+        "qualifying_points_individual": [
+          43.111111111111114,
+          46.333333333333336
+        ],
+        "qualifying_points_total": 89.44444444444444,
+        "rank": 35.44444444444444,
+        "team_key": "frc3467"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 100.28571428571429,
+        "qualifying_points_individual": [
+          39.111111111111114,
+          46.888888888888886
+        ],
+        "qualifying_points_total": 86.0,
+        "rank": 36.44444444444444,
+        "team_key": "frc1768"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 54.0,
+        "qualifying_points_individual": [
+          40.111111111111114,
+          42.666666666666664
+        ],
+        "qualifying_points_total": 82.77777777777777,
+        "rank": 37.111111111111114,
+        "team_key": "frc4905"
+      }
+    ]
+  },
+  "summary": {
+    "all_teams": {
+      "frc1027": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "West Springfield",
+        "country": "USA",
+        "key": "frc1027",
+        "name": "Mechatronic Maniacs",
+        "number": 1027,
+        "rookie_year": 2003,
+        "state_prov": "MA"
+      },
+      "frc1058": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Londonderry",
+        "country": "USA",
+        "key": "frc1058",
+        "name": "PVC Pirates",
+        "number": 1058,
+        "rookie_year": 2003,
+        "state_prov": "NH"
+      },
+      "frc1071": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Wolcott",
+        "country": "USA",
+        "key": "frc1071",
+        "name": "Team MAX",
+        "number": 1071,
+        "rookie_year": 2003,
+        "state_prov": "CT"
+      },
+      "frc1073": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Hollis",
+        "country": "USA",
+        "key": "frc1073",
+        "name": "The Force Team",
+        "number": 1073,
+        "rookie_year": 2003,
+        "state_prov": "NH"
+      },
+      "frc1085": {
+        "active_years": [
+          2018
+        ],
+        "city": "Avon",
+        "country": "USA",
+        "key": "frc1085",
+        "name": "Aquatic Robotics",
+        "number": 1085,
+        "rookie_year": 2003,
+        "state_prov": "CT"
+      },
+      "frc1099": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Brookfield",
+        "country": "USA",
+        "key": "frc1099",
+        "name": "DiscoTechs",
+        "number": 1099,
+        "rookie_year": 2003,
+        "state_prov": "CT"
+      },
+      "frc1100": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Northborough/Southborough",
+        "country": "USA",
+        "key": "frc1100",
+        "name": "Inverse Polarity",
+        "number": 1100,
+        "rookie_year": 2003,
+        "state_prov": "MA"
+      },
+      "frc1119": {
+        "active_years": [
+          2024
+        ],
+        "city": "Walpole",
+        "country": "USA",
+        "key": "frc1119",
+        "name": "Pup Cups",
+        "number": 1119,
+        "rookie_year": 2003,
+        "state_prov": "MA"
+      },
+      "frc1124": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023
+        ],
+        "city": "Avon",
+        "country": "USA",
+        "key": "frc1124",
+        "name": "UberBots",
+        "number": 1124,
+        "rookie_year": 2003,
+        "state_prov": "CT"
+      },
+      "frc1153": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Walpole",
+        "country": "USA",
+        "key": "frc1153",
+        "name": "Timberwolves",
+        "number": 1153,
+        "rookie_year": 2003,
+        "state_prov": "MA"
+      },
+      "frc121": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022
+        ],
+        "city": "Middletown",
+        "country": "USA",
+        "key": "frc121",
+        "name": "Rhode Warriors",
+        "number": 121,
+        "rookie_year": 1996,
+        "state_prov": "RI"
+      },
+      "frc1247": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "North Sutton",
+        "country": "USA",
+        "key": "frc1247",
+        "name": "Blood, Sweat, and Gears",
+        "number": 1247,
+        "rookie_year": 2004,
+        "state_prov": "NH"
+      },
+      "frc125": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Revere",
+        "country": "USA",
+        "key": "frc125",
+        "name": "NUTRONs",
+        "number": 125,
+        "rookie_year": 1998,
+        "state_prov": "MA"
+      },
+      "frc126": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Clinton",
+        "country": "USA",
+        "key": "frc126",
+        "name": "Gael Force",
+        "number": 126,
+        "rookie_year": 1992,
+        "state_prov": "MA"
+      },
+      "frc1277": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Groton",
+        "country": "USA",
+        "key": "frc1277",
+        "name": "The Robotomies",
+        "number": 1277,
+        "rookie_year": 2004,
+        "state_prov": "MA"
+      },
+      "frc1289": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Lawrence",
+        "country": "USA",
+        "key": "frc1289",
+        "name": "Gearheadz",
+        "number": 1289,
+        "rookie_year": 2004,
+        "state_prov": "MA"
+      },
+      "frc1307": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Dover",
+        "country": "USA",
+        "key": "frc1307",
+        "name": "Robosaints",
+        "number": 1307,
+        "rookie_year": 2004,
+        "state_prov": "NH"
+      },
+      "frc131": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Manchester",
+        "country": "USA",
+        "key": "frc131",
+        "name": "CHAOS",
+        "number": 131,
+        "rookie_year": 1992,
+        "state_prov": "NH"
+      },
+      "frc133": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Standish",
+        "country": "USA",
+        "key": "frc133",
+        "name": "B.E.R.T.",
+        "number": 133,
+        "rookie_year": 1997,
+        "state_prov": "ME"
+      },
+      "frc1350": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Providence",
+        "country": "USA",
+        "key": "frc1350",
+        "name": "The Rambots",
+        "number": 1350,
+        "rookie_year": 2004,
+        "state_prov": "RI"
+      },
+      "frc138": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Amherst",
+        "country": "USA",
+        "key": "frc138",
+        "name": "Entropy",
+        "number": 138,
+        "rookie_year": 1996,
+        "state_prov": "NH"
+      },
+      "frc1474": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Tewksbury",
+        "country": "USA",
+        "key": "frc1474",
+        "name": "Titans",
+        "number": 1474,
+        "rookie_year": 2004,
+        "state_prov": "MA"
+      },
+      "frc151": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Nashua",
+        "country": "USA",
+        "key": "frc151",
+        "name": "Tough Techs",
+        "number": 151,
+        "rookie_year": 1992,
+        "state_prov": "NH"
+      },
+      "frc1512": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Concord",
+        "country": "USA",
+        "key": "frc1512",
+        "name": "The Big Red",
+        "number": 1512,
+        "rookie_year": 2005,
+        "state_prov": "NH"
+      },
+      "frc1517": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Concord",
+        "country": "USA",
+        "key": "frc1517",
+        "name": "AMP'D UP",
+        "number": 1517,
+        "rookie_year": 2005,
+        "state_prov": "NH"
+      },
+      "frc1519": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Milford",
+        "country": "USA",
+        "key": "frc1519",
+        "name": "Mechanical Mayhem",
+        "number": 1519,
+        "rookie_year": 2005,
+        "state_prov": "NH"
+      },
+      "frc155": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Berlin",
+        "country": "USA",
+        "key": "frc155",
+        "name": "The TechnoNuts",
+        "number": 155,
+        "rookie_year": 1994,
+        "state_prov": "CT"
+      },
+      "frc157": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Marlborough",
+        "country": "USA",
+        "key": "frc157",
+        "name": "AZTECHS",
+        "number": 157,
+        "rookie_year": 1992,
+        "state_prov": "MA"
+      },
+      "frc166": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Merrimack",
+        "country": "USA",
+        "key": "frc166",
+        "name": "Chop Shop",
+        "number": 166,
+        "rookie_year": 1995,
+        "state_prov": "NH"
+      },
+      "frc1687": {
+        "active_years": [
+          2014
+        ],
+        "city": "Worcester",
+        "country": "USA",
+        "key": "frc1687",
+        "name": "Highlander Robotics",
+        "number": 1687,
+        "rookie_year": 2005,
+        "state_prov": "MA"
+      },
+      "frc1699": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Colchester",
+        "country": "USA",
+        "key": "frc1699",
+        "name": "Robocats",
+        "number": 1699,
+        "rookie_year": 2005,
+        "state_prov": "CT"
+      },
+      "frc172": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Falmouth/Gorham",
+        "country": "USA",
+        "key": "frc172",
+        "name": "Northern Force",
+        "number": 172,
+        "rookie_year": 1996,
+        "state_prov": "ME"
+      },
+      "frc1721": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Concord",
+        "country": "USA",
+        "key": "frc1721",
+        "name": "Tidal Force",
+        "number": 1721,
+        "rookie_year": 2006,
+        "state_prov": "NH"
+      },
+      "frc1729": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Peterborough",
+        "country": "USA",
+        "key": "frc1729",
+        "name": "Team Inconceivable!",
+        "number": 1729,
+        "rookie_year": 2006,
+        "state_prov": "NH"
+      },
+      "frc173": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Tolland",
+        "country": "USA",
+        "key": "frc173",
+        "name": "RAGE Robotics \u2699\ufe0f",
+        "number": 173,
+        "rookie_year": 1995,
+        "state_prov": "CT"
+      },
+      "frc1735": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Worcester",
+        "country": "USA",
+        "key": "frc1735",
+        "name": "Green Reapers",
+        "number": 1735,
+        "rookie_year": 2006,
+        "state_prov": "MA"
+      },
+      "frc1740": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Ledyard",
+        "country": "USA",
+        "key": "frc1740",
+        "name": "Cyber Colonels",
+        "number": 1740,
+        "rookie_year": 2006,
+        "state_prov": "CT"
+      },
+      "frc175": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Enfield",
+        "country": "USA",
+        "key": "frc175",
+        "name": "Buzz Robotics",
+        "number": 175,
+        "rookie_year": 1996,
+        "state_prov": "CT"
+      },
+      "frc1757": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Westwood",
+        "country": "USA",
+        "key": "frc1757",
+        "name": "Wolverines",
+        "number": 1757,
+        "rookie_year": 2006,
+        "state_prov": "MA"
+      },
+      "frc176": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Windsor Locks",
+        "country": "USA",
+        "key": "frc176",
+        "name": "Aces High",
+        "number": 176,
+        "rookie_year": 1996,
+        "state_prov": "CT"
+      },
+      "frc1761": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Lynn",
+        "country": "USA",
+        "key": "frc1761",
+        "name": "STEAMpunk Tigers",
+        "number": 1761,
+        "rookie_year": 2006,
+        "state_prov": "MA"
+      },
+      "frc1768": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Bolton",
+        "country": "USA",
+        "key": "frc1768",
+        "name": "Nashoba Robotics",
+        "number": 1768,
+        "rookie_year": 2006,
+        "state_prov": "MA"
+      },
+      "frc177": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "South Windsor",
+        "country": "USA",
+        "key": "frc177",
+        "name": "Bobcat Robotics",
+        "number": 177,
+        "rookie_year": 1995,
+        "state_prov": "CT"
+      },
+      "frc178": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Farmington",
+        "country": "USA",
+        "key": "frc178",
+        "name": "The 2nd Law Enforcers",
+        "number": 178,
+        "rookie_year": 1997,
+        "state_prov": "CT"
+      },
+      "frc1786": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Dublin",
+        "country": "USA",
+        "key": "frc1786",
+        "name": "The Robotics Team",
+        "number": 1786,
+        "rookie_year": 2006,
+        "state_prov": "NH"
+      },
+      "frc181": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Hartford",
+        "country": "USA",
+        "key": "frc181",
+        "name": "Birds Of Prey",
+        "number": 181,
+        "rookie_year": 1998,
+        "state_prov": "CT"
+      },
+      "frc1831": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Gilford",
+        "country": "USA",
+        "key": "frc1831",
+        "name": "Screaming Eagles",
+        "number": 1831,
+        "rookie_year": 2006,
+        "state_prov": "NH"
+      },
+      "frc190": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Worcester",
+        "country": "USA",
+        "key": "frc190",
+        "name": "Gompei and the H.E.R.D.",
+        "number": 190,
+        "rookie_year": 1992,
+        "state_prov": "MA"
+      },
+      "frc1922": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Contoocook",
+        "country": "USA",
+        "key": "frc1922",
+        "name": "Oz-Ram",
+        "number": 1922,
+        "rookie_year": 2006,
+        "state_prov": "NH"
+      },
+      "frc195": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Southington",
+        "country": "USA",
+        "key": "frc195",
+        "name": "CyberKnights",
+        "number": 195,
+        "rookie_year": 1998,
+        "state_prov": "CT"
+      },
+      "frc1965": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Cambridge",
+        "country": "USA",
+        "key": "frc1965",
+        "name": "Firebirds",
+        "number": 1965,
+        "rookie_year": 2006,
+        "state_prov": "MA"
+      },
+      "frc1973": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "city": "Boston",
+        "country": "USA",
+        "key": "frc1973",
+        "name": "Burning Tiger   #1973",
+        "number": 1973,
+        "rookie_year": 2006,
+        "state_prov": "MA"
+      },
+      "frc1991": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Hartford",
+        "country": "USA",
+        "key": "frc1991",
+        "name": "The Dragons",
+        "number": 1991,
+        "rookie_year": 2007,
+        "state_prov": "CT"
+      },
+      "frc2064": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Southbury / Middlebury",
+        "country": "USA",
+        "key": "frc2064",
+        "name": "The Panther Project",
+        "number": 2064,
+        "rookie_year": 2007,
+        "state_prov": "CT"
+      },
+      "frc2067": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Guilford",
+        "country": "USA",
+        "key": "frc2067",
+        "name": "Apple Pi",
+        "number": 2067,
+        "rookie_year": 2007,
+        "state_prov": "CT"
+      },
+      "frc2079": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Franklin",
+        "country": "USA",
+        "key": "frc2079",
+        "name": "4H ALARM Robotics",
+        "number": 2079,
+        "rookie_year": 2007,
+        "state_prov": "MA"
+      },
+      "frc2084": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Manchester",
+        "country": "USA",
+        "key": "frc2084",
+        "name": "Robots by the C",
+        "number": 2084,
+        "rookie_year": 2007,
+        "state_prov": "MA"
+      },
+      "frc213": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Keene",
+        "country": "USA",
+        "key": "frc213",
+        "name": "The Dirty Birds",
+        "number": 213,
+        "rookie_year": 1999,
+        "state_prov": "NH"
+      },
+      "frc2168": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Groton",
+        "country": "USA",
+        "key": "frc2168",
+        "name": "Aluminum Falcons",
+        "number": 2168,
+        "rookie_year": 2007,
+        "state_prov": "CT"
+      },
+      "frc2170": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Glastonbury",
+        "country": "USA",
+        "key": "frc2170",
+        "name": "Galvanized Guardians",
+        "number": 2170,
+        "rookie_year": 2007,
+        "state_prov": "CT"
+      },
+      "frc2262": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Holliston",
+        "country": "USA",
+        "key": "frc2262",
+        "name": "Robo-Panthers",
+        "number": 2262,
+        "rookie_year": 2007,
+        "state_prov": "MA"
+      },
+      "frc228": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Meriden",
+        "country": "USA",
+        "key": "frc228",
+        "name": "GUS",
+        "number": 228,
+        "rookie_year": 1999,
+        "state_prov": "CT"
+      },
+      "frc23": {
+        "active_years": [
+          2018,
+          2019
+        ],
+        "city": "Plymouth",
+        "country": "USA",
+        "key": "frc23",
+        "name": "PNTA Pilgrim Nuclear Technology Alliance",
+        "number": 23,
+        "rookie_year": 1995,
+        "state_prov": "MA"
+      },
+      "frc230": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Shelton",
+        "country": "USA",
+        "key": "frc230",
+        "name": "Gaelhawks",
+        "number": 230,
+        "rookie_year": 1999,
+        "state_prov": "CT"
+      },
+      "frc2342": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Nashua",
+        "country": "USA",
+        "key": "frc2342",
+        "name": "Team Phoenix",
+        "number": 2342,
+        "rookie_year": 2008,
+        "state_prov": "NH"
+      },
+      "frc236": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Old Lyme",
+        "country": "USA",
+        "key": "frc236",
+        "name": "Techno-Ticks",
+        "number": 236,
+        "rookie_year": 1999,
+        "state_prov": "CT"
+      },
+      "frc237": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Watertown",
+        "country": "USA",
+        "key": "frc237",
+        "name": "Black Magic Robotics",
+        "number": 237,
+        "rookie_year": 1999,
+        "state_prov": "CT"
+      },
+      "frc2370": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Rutland",
+        "country": "USA",
+        "key": "frc2370",
+        "name": "IBOTS",
+        "number": 2370,
+        "rookie_year": 2008,
+        "state_prov": "VT"
+      },
+      "frc238": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Manchester",
+        "country": "USA",
+        "key": "frc238",
+        "name": "Crusaders",
+        "number": 238,
+        "rookie_year": 1999,
+        "state_prov": "NH"
+      },
+      "frc2423": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Watertown",
+        "country": "USA",
+        "key": "frc2423",
+        "name": "The KwarQs",
+        "number": 2423,
+        "rookie_year": 2008,
+        "state_prov": "MA"
+      },
+      "frc246": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Boston",
+        "country": "USA",
+        "key": "frc246",
+        "name": "Lobstah Bots",
+        "number": 246,
+        "rookie_year": 1999,
+        "state_prov": "MA"
+      },
+      "frc2523": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2023,
+          2024
+        ],
+        "city": "Saint Johnsbury",
+        "country": "USA",
+        "key": "frc2523",
+        "name": "Tech Storm",
+        "number": 2523,
+        "rookie_year": 2008,
+        "state_prov": "VT"
+      },
+      "frc2621": {
+        "active_years": [
+          2014
+        ],
+        "city": "Bedford",
+        "country": "USA",
+        "key": "frc2621",
+        "name": "Bucs",
+        "number": 2621,
+        "rookie_year": 2008,
+        "state_prov": "MA"
+      },
+      "frc2648": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Oakland",
+        "country": "USA",
+        "key": "frc2648",
+        "name": "Infinite Loop",
+        "number": 2648,
+        "rookie_year": 2008,
+        "state_prov": "ME"
+      },
+      "frc2712": {
+        "active_years": [
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Waterbury",
+        "country": "USA",
+        "key": "frc2712",
+        "name": "Power Surge 4-H Robotics",
+        "number": 2712,
+        "rookie_year": 2009,
+        "state_prov": "CT"
+      },
+      "frc2713": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Melrose",
+        "country": "USA",
+        "key": "frc2713",
+        "name": "Red Hawk Robotics",
+        "number": 2713,
+        "rookie_year": 2009,
+        "state_prov": "MA"
+      },
+      "frc2785": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022
+        ],
+        "city": "Kent",
+        "country": "USA",
+        "key": "frc2785",
+        "name": "Prometheus",
+        "number": 2785,
+        "rookie_year": 2009,
+        "state_prov": "CT"
+      },
+      "frc2836": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Woodbury",
+        "country": "USA",
+        "key": "frc2836",
+        "name": "Team Beta",
+        "number": 2836,
+        "rookie_year": 2009,
+        "state_prov": "CT"
+      },
+      "frc2871": {
+        "active_years": [
+          2014
+        ],
+        "city": "Roxbury",
+        "country": "USA",
+        "key": "frc2871",
+        "name": "Beantown Botz",
+        "number": 2871,
+        "rookie_year": 2009,
+        "state_prov": "MA"
+      },
+      "frc2876": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Burlington",
+        "country": "USA",
+        "key": "frc2876",
+        "name": "DevilBotz",
+        "number": 2876,
+        "rookie_year": 2009,
+        "state_prov": "MA"
+      },
+      "frc2877": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Auburndale",
+        "country": "USA",
+        "key": "frc2877",
+        "name": "LigerBots",
+        "number": 2877,
+        "rookie_year": 2009,
+        "state_prov": "MA"
+      },
+      "frc3104": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "city": "Stamford",
+        "country": "USA",
+        "key": "frc3104",
+        "name": "The Cyber Rams",
+        "number": 3104,
+        "rookie_year": 2009,
+        "state_prov": "CT"
+      },
+      "frc3146": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Granby",
+        "country": "USA",
+        "key": "frc3146",
+        "name": "GRANBY GRUNTS",
+        "number": 3146,
+        "rookie_year": 2010,
+        "state_prov": "CT"
+      },
+      "frc3182": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Hartford",
+        "country": "USA",
+        "key": "frc3182",
+        "name": "Athena's Warriors",
+        "number": 3182,
+        "rookie_year": 2010,
+        "state_prov": "CT"
+      },
+      "frc319": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Alton",
+        "country": "USA",
+        "key": "frc319",
+        "name": "Big Bad Bob",
+        "number": 319,
+        "rookie_year": 1999,
+        "state_prov": "NH"
+      },
+      "frc3205": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Concord",
+        "country": "USA",
+        "key": "frc3205",
+        "name": "Patriots",
+        "number": 3205,
+        "rookie_year": 2010,
+        "state_prov": "MA"
+      },
+      "frc3236": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Franklin",
+        "country": "USA",
+        "key": "frc3236",
+        "name": "TRIFORCE",
+        "number": 3236,
+        "rookie_year": 2010,
+        "state_prov": "MA"
+      },
+      "frc3280": {
+        "active_years": [
+          2014
+        ],
+        "city": "Providence",
+        "country": "USA",
+        "key": "frc3280",
+        "name": "Rhode Rebels",
+        "number": 3280,
+        "rookie_year": 2010,
+        "state_prov": "RI"
+      },
+      "frc3323": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Litchfield",
+        "country": "USA",
+        "key": "frc3323",
+        "name": "Potential Energy",
+        "number": 3323,
+        "rookie_year": 2010,
+        "state_prov": "NH"
+      },
+      "frc3451": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Sanford",
+        "country": "USA",
+        "key": "frc3451",
+        "name": "The ANOMALY",
+        "number": 3451,
+        "rookie_year": 2011,
+        "state_prov": "ME"
+      },
+      "frc3461": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Bristol",
+        "country": "USA",
+        "key": "frc3461",
+        "name": "Operation PEACCE Robotics",
+        "number": 3461,
+        "rookie_year": 2011,
+        "state_prov": "CT"
+      },
+      "frc3464": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Simsbury",
+        "country": "USA",
+        "key": "frc3464",
+        "name": "Sim-City",
+        "number": 3464,
+        "rookie_year": 2011,
+        "state_prov": "CT"
+      },
+      "frc3466": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "city": "Westford",
+        "country": "USA",
+        "key": "frc3466",
+        "name": "VIKINGS ROBOTICS",
+        "number": 3466,
+        "rookie_year": 2011,
+        "state_prov": "MA"
+      },
+      "frc3467": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Windham",
+        "country": "USA",
+        "key": "frc3467",
+        "name": "Windham Windup",
+        "number": 3467,
+        "rookie_year": 2011,
+        "state_prov": "NH"
+      },
+      "frc3479": {
+        "active_years": [
+          2014
+        ],
+        "city": "everett",
+        "country": "USA",
+        "key": "frc3479",
+        "name": "crimson tide",
+        "number": 3479,
+        "rookie_year": 2011,
+        "state_prov": "MA"
+      },
+      "frc348": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Norwell",
+        "country": "USA",
+        "key": "frc348",
+        "name": "Norwell Robotics",
+        "number": 348,
+        "rookie_year": 2000,
+        "state_prov": "MA"
+      },
+      "frc3499": {
+        "active_years": [
+          2014,
+          2015,
+          2018
+        ],
+        "city": "Durham",
+        "country": "USA",
+        "key": "frc3499",
+        "name": "River's Edge Robotics",
+        "number": 3499,
+        "rookie_year": 2011,
+        "state_prov": "NH"
+      },
+      "frc3525": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Waterbury",
+        "country": "USA",
+        "key": "frc3525",
+        "name": "The Nuts & Bolts of Fury",
+        "number": 3525,
+        "rookie_year": 2011,
+        "state_prov": "CT"
+      },
+      "frc3555": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Storrs Mansfield",
+        "country": "USA",
+        "key": "frc3555",
+        "name": "Aluminati",
+        "number": 3555,
+        "rookie_year": 2011,
+        "state_prov": "CT"
+      },
+      "frc3566": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Southborough",
+        "country": "USA",
+        "key": "frc3566",
+        "name": "Gone Fishin'",
+        "number": 3566,
+        "rookie_year": 2011,
+        "state_prov": "MA"
+      },
+      "frc3585": {
+        "active_years": [
+          2014,
+          2015,
+          2016
+        ],
+        "city": "Charlestown",
+        "country": "USA",
+        "key": "frc3585",
+        "name": "Rogue Robots of 4-H",
+        "number": 3585,
+        "rookie_year": 2011,
+        "state_prov": "NH"
+      },
+      "frc3597": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2023,
+          2024
+        ],
+        "city": "Kittery",
+        "country": "USA",
+        "key": "frc3597",
+        "name": "Robo-Rangers",
+        "number": 3597,
+        "rookie_year": 2011,
+        "state_prov": "ME"
+      },
+      "frc3609": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Portland",
+        "country": "USA",
+        "key": "frc3609",
+        "name": "Duct Tape Dragons",
+        "number": 3609,
+        "rookie_year": 2011,
+        "state_prov": "ME"
+      },
+      "frc3623": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Leominster",
+        "country": "USA",
+        "key": "frc3623",
+        "name": "The Robomingos",
+        "number": 3623,
+        "rookie_year": 2011,
+        "state_prov": "MA"
+      },
+      "frc3634": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Bridgeport",
+        "country": "USA",
+        "key": "frc3634",
+        "name": "Spark City",
+        "number": 3634,
+        "rookie_year": 2011,
+        "state_prov": "CT"
+      },
+      "frc3654": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Middletown",
+        "country": "USA",
+        "key": "frc3654",
+        "name": "TechTigers",
+        "number": 3654,
+        "rookie_year": 2011,
+        "state_prov": "CT"
+      },
+      "frc3718": {
+        "active_years": [
+          2014,
+          2015,
+          2016
+        ],
+        "city": "New Britain",
+        "country": "USA",
+        "key": "frc3718",
+        "name": "Junkyard Battalion",
+        "number": 3718,
+        "rookie_year": 2011,
+        "state_prov": "CT"
+      },
+      "frc3719": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "New London ",
+        "country": "USA",
+        "key": "frc3719",
+        "name": "STEM Whalers",
+        "number": 3719,
+        "rookie_year": 2011,
+        "state_prov": "CT"
+      },
+      "frc3780": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017
+        ],
+        "city": "Providence",
+        "country": "USA",
+        "key": "frc3780",
+        "name": "Robot Unicorns",
+        "number": 3780,
+        "rookie_year": 2011,
+        "state_prov": "RI"
+      },
+      "frc3927": {
+        "active_years": [
+          2014
+        ],
+        "city": "Weymouth",
+        "country": "USA",
+        "key": "frc3927",
+        "name": "RAW-Robotics ",
+        "number": 3927,
+        "rookie_year": 2012,
+        "state_prov": "MA"
+      },
+      "frc3930": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Jay",
+        "country": "USA",
+        "key": "frc3930",
+        "name": "SMART  Spruce Mountain Area Robotics Team",
+        "number": 3930,
+        "rookie_year": 2012,
+        "state_prov": "ME"
+      },
+      "frc3958": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Boston",
+        "country": "USA",
+        "key": "frc3958",
+        "name": "Schrodinger's Cat",
+        "number": 3958,
+        "rookie_year": 2012,
+        "state_prov": "MA"
+      },
+      "frc4034": {
+        "active_years": [
+          2014,
+          2015,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023
+        ],
+        "city": "Pelham",
+        "country": "USA",
+        "key": "frc4034",
+        "name": "Pelham \u03c0thons Team 4034",
+        "number": 4034,
+        "rookie_year": 2012,
+        "state_prov": "NH"
+      },
+      "frc4041": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Gardiner",
+        "country": "USA",
+        "key": "frc4041",
+        "name": "Iron Tigers",
+        "number": 4041,
+        "rookie_year": 2012,
+        "state_prov": "ME"
+      },
+      "frc4042": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "city": "South China",
+        "country": "USA",
+        "key": "frc4042",
+        "name": "Murphy's Lawyers",
+        "number": 4042,
+        "rookie_year": 2012,
+        "state_prov": "ME"
+      },
+      "frc4048": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Westborough",
+        "country": "USA",
+        "key": "frc4048",
+        "name": "Redshift",
+        "number": 4048,
+        "rookie_year": 2012,
+        "state_prov": "MA"
+      },
+      "frc4055": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Winchester",
+        "country": "USA",
+        "key": "frc4055",
+        "name": "NRG",
+        "number": 4055,
+        "rookie_year": 2012,
+        "state_prov": "CT"
+      },
+      "frc4097": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022
+        ],
+        "city": "Northampton",
+        "country": "USA",
+        "key": "frc4097",
+        "name": "Devilbots",
+        "number": 4097,
+        "rookie_year": 2012,
+        "state_prov": "MA"
+      },
+      "frc4151": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Weymouth",
+        "country": "USA",
+        "key": "frc4151",
+        "name": "SCRAP 4151",
+        "number": 4151,
+        "rookie_year": 2012,
+        "state_prov": "MA"
+      },
+      "frc4169": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Sudbury",
+        "country": "USA",
+        "key": "frc4169",
+        "name": "Warrior Robotics",
+        "number": 4169,
+        "rookie_year": 2012,
+        "state_prov": "MA"
+      },
+      "frc4176": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "North Easton",
+        "country": "USA",
+        "key": "frc4176",
+        "name": "Iron Tigers",
+        "number": 4176,
+        "rookie_year": 2012,
+        "state_prov": "MA"
+      },
+      "frc4311": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Swampscott",
+        "country": "USA",
+        "key": "frc4311",
+        "name": "Swampscott Currents",
+        "number": 4311,
+        "rookie_year": 2012,
+        "state_prov": "MA"
+      },
+      "frc4473": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Richmond",
+        "country": "USA",
+        "key": "frc4473",
+        "name": "Delta Prime Robotics 4-H",
+        "number": 4473,
+        "rookie_year": 2013,
+        "state_prov": "ME"
+      },
+      "frc4474": {
+        "active_years": [
+          2014,
+          2015,
+          2016
+        ],
+        "city": "Kingston",
+        "country": "USA",
+        "key": "frc4474",
+        "name": "Silver Circuit",
+        "number": 4474,
+        "rookie_year": 2013,
+        "state_prov": "MA"
+      },
+      "frc4546": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Dover",
+        "country": "USA",
+        "key": "frc4546",
+        "name": "Shockwave",
+        "number": 4546,
+        "rookie_year": 2013,
+        "state_prov": "NH"
+      },
+      "frc4555": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "city": "Skowhegan",
+        "country": "USA",
+        "key": "frc4555",
+        "name": "Sprocketology",
+        "number": 4555,
+        "rookie_year": 2013,
+        "state_prov": "ME"
+      },
+      "frc4557": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Middletown",
+        "country": "USA",
+        "key": "frc4557",
+        "name": "FullMetal Falcons",
+        "number": 4557,
+        "rookie_year": 2013,
+        "state_prov": "CT"
+      },
+      "frc4564": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Brewer",
+        "country": "USA",
+        "key": "frc4564",
+        "name": "Orange Chaos",
+        "number": 4564,
+        "rookie_year": 2013,
+        "state_prov": "ME"
+      },
+      "frc4572": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Redding",
+        "country": "USA",
+        "key": "frc4572",
+        "name": "BArlow RobAutics",
+        "number": 4572,
+        "rookie_year": 2013,
+        "state_prov": "CT"
+      },
+      "frc4628": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2022,
+          2023
+        ],
+        "city": "West Haven",
+        "country": "USA",
+        "key": "frc4628",
+        "name": "Sintian Robotics",
+        "number": 4628,
+        "rookie_year": 2013,
+        "state_prov": "CT"
+      },
+      "frc467": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Shrewsbury",
+        "country": "USA",
+        "key": "frc467",
+        "name": "Colonials",
+        "number": 467,
+        "rookie_year": 2000,
+        "state_prov": "MA"
+      },
+      "frc4761": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Reading",
+        "country": "USA",
+        "key": "frc4761",
+        "name": "The Robockets",
+        "number": 4761,
+        "rookie_year": 2013,
+        "state_prov": "MA"
+      },
+      "frc4793": {
+        "active_years": [
+          2014
+        ],
+        "city": "old Orchard Beach",
+        "country": "USA",
+        "key": "frc4793",
+        "name": "OOBotics",
+        "number": 4793,
+        "rookie_year": 2013,
+        "state_prov": "ME"
+      },
+      "frc4796": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Hyde Park",
+        "country": "USA",
+        "key": "frc4796",
+        "name": "Cyber Dragons",
+        "number": 4796,
+        "rookie_year": 2013,
+        "state_prov": "MA"
+      },
+      "frc4905": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Ayer",
+        "country": "USA",
+        "key": "frc4905",
+        "name": "Andromeda One",
+        "number": 4905,
+        "rookie_year": 2014,
+        "state_prov": "MA"
+      },
+      "frc4906": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Waterville",
+        "country": "USA",
+        "key": "frc4906",
+        "name": "The Collective",
+        "number": 4906,
+        "rookie_year": 2014,
+        "state_prov": "ME"
+      },
+      "frc4908": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Duxbury",
+        "country": "USA",
+        "key": "frc4908",
+        "name": "Duxbury Dragons",
+        "number": 4908,
+        "rookie_year": 2014,
+        "state_prov": "MA"
+      },
+      "frc4909": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Billerica",
+        "country": "USA",
+        "key": "frc4909",
+        "name": "Bionics",
+        "number": 4909,
+        "rookie_year": 2014,
+        "state_prov": "MA"
+      },
+      "frc4925": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Wolfeboro",
+        "country": "USA",
+        "key": "frc4925",
+        "name": "The Resistance",
+        "number": 4925,
+        "rookie_year": 2014,
+        "state_prov": "NH"
+      },
+      "frc4929": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Haverhill",
+        "country": "USA",
+        "key": "frc4929",
+        "name": "Maroon Monsoon",
+        "number": 4929,
+        "rookie_year": 2014,
+        "state_prov": "MA"
+      },
+      "frc4958": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Langdon",
+        "country": "USA",
+        "key": "frc4958",
+        "name": "Robocats",
+        "number": 4958,
+        "rookie_year": 2014,
+        "state_prov": "NH"
+      },
+      "frc4987": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Worcester",
+        "country": "USA",
+        "key": "frc4987",
+        "name": "MegaRams",
+        "number": 4987,
+        "rookie_year": 2014,
+        "state_prov": "MA"
+      },
+      "frc5000": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Hingham",
+        "country": "USA",
+        "key": "frc5000",
+        "name": "Hammerheads",
+        "number": 5000,
+        "rookie_year": 2014,
+        "state_prov": "MA"
+      },
+      "frc501": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Manchester/Goffstown",
+        "country": "USA",
+        "key": "frc501",
+        "name": "The PowerKnights",
+        "number": 501,
+        "rookie_year": 2001,
+        "state_prov": "NH"
+      },
+      "frc509": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Bedford",
+        "country": "USA",
+        "key": "frc509",
+        "name": "Red Storm",
+        "number": 509,
+        "rookie_year": 2001,
+        "state_prov": "NH"
+      },
+      "frc5112": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Foster and Glocester ",
+        "country": "USA",
+        "key": "frc5112",
+        "name": "The Gongoliers",
+        "number": 5112,
+        "rookie_year": 2014,
+        "state_prov": "RI"
+      },
+      "frc5122": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "city": "Old Town",
+        "country": "USA",
+        "key": "frc5122",
+        "name": "robOTies",
+        "number": 5122,
+        "rookie_year": 2014,
+        "state_prov": "ME"
+      },
+      "frc5129": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "city": "Plainville",
+        "country": "USA",
+        "key": "frc5129",
+        "name": "Digital Devils",
+        "number": 5129,
+        "rookie_year": 2014,
+        "state_prov": "CT"
+      },
+      "frc5142": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "New Haven",
+        "country": "USA",
+        "key": "frc5142",
+        "name": "Robo Dominators",
+        "number": 5142,
+        "rookie_year": 2014,
+        "state_prov": "CT"
+      },
+      "frc5163": {
+        "active_years": [
+          2014,
+          2015,
+          2016
+        ],
+        "city": "Hopkinton",
+        "country": "USA",
+        "key": "frc5163",
+        "name": "The Aluminum Warriors",
+        "number": 5163,
+        "rookie_year": 2014,
+        "state_prov": "MA"
+      },
+      "frc5265": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Portland",
+        "country": "USA",
+        "key": "frc5265",
+        "name": "Radical Impact",
+        "number": 5265,
+        "rookie_year": 2014,
+        "state_prov": "ME"
+      },
+      "frc5286": {
+        "active_years": [
+          2014,
+          2015
+        ],
+        "city": "Saco",
+        "country": "USA",
+        "key": "frc5286",
+        "name": "Trojonix",
+        "number": 5286,
+        "rookie_year": 2014,
+        "state_prov": "ME"
+      },
+      "frc5347": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Weston",
+        "country": "USA",
+        "key": "frc5347",
+        "name": "Gryphons",
+        "number": 5347,
+        "rookie_year": 2014,
+        "state_prov": "MA"
+      },
+      "frc5400": {
+        "active_years": [
+          2015,
+          2016
+        ],
+        "city": "Worcester",
+        "country": "USA",
+        "key": "frc5400",
+        "name": "WARP",
+        "number": 5400,
+        "rookie_year": 2015,
+        "state_prov": "MA"
+      },
+      "frc5422": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Westford",
+        "country": "USA",
+        "key": "frc5422",
+        "name": "Stormgears FRC",
+        "number": 5422,
+        "rookie_year": 2015,
+        "state_prov": "MA"
+      },
+      "frc5459": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Ipswich",
+        "country": "USA",
+        "key": "frc5459",
+        "name": "Ipswich TIGERS",
+        "number": 5459,
+        "rookie_year": 2015,
+        "state_prov": "MA"
+      },
+      "frc5471": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "city": "Winthrop",
+        "country": "USA",
+        "key": "frc5471",
+        "name": "W.Hi.R.R.",
+        "number": 5471,
+        "rookie_year": 2015,
+        "state_prov": "ME"
+      },
+      "frc5491": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Winchendon",
+        "country": "USA",
+        "key": "frc5491",
+        "name": "Hard Reset",
+        "number": 5491,
+        "rookie_year": 2015,
+        "state_prov": "MA"
+      },
+      "frc5494": {
+        "active_years": [
+          2015,
+          2016,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Holbrook",
+        "country": "USA",
+        "key": "frc5494",
+        "name": "Bizarbots Robotics",
+        "number": 5494,
+        "rookie_year": 2015,
+        "state_prov": "MA"
+      },
+      "frc5506": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018
+        ],
+        "city": "Searsport",
+        "country": "USA",
+        "key": "frc5506",
+        "name": "Midcoast MAINEiacs Robotics Team",
+        "number": 5506,
+        "rookie_year": 2015,
+        "state_prov": "ME"
+      },
+      "frc5556": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Amesbury",
+        "country": "USA",
+        "key": "frc5556",
+        "name": "Carriagetown Robotics",
+        "number": 5556,
+        "rookie_year": 2015,
+        "state_prov": "MA"
+      },
+      "frc5563": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Lynn",
+        "country": "USA",
+        "key": "frc5563",
+        "name": "Phalanx",
+        "number": 5563,
+        "rookie_year": 2015,
+        "state_prov": "MA"
+      },
+      "frc558": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "New Haven",
+        "country": "USA",
+        "key": "frc558",
+        "name": "Elm City Robo Squad",
+        "number": 558,
+        "rookie_year": 2001,
+        "state_prov": "CT"
+      },
+      "frc5633": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Bath",
+        "country": "USA",
+        "key": "frc5633",
+        "name": "Hyde Cyber Wolves",
+        "number": 5633,
+        "rookie_year": 2015,
+        "state_prov": "ME"
+      },
+      "frc5686": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Simsbury",
+        "country": "USA",
+        "key": "frc5686",
+        "name": "Wirecats",
+        "number": 5686,
+        "rookie_year": 2015,
+        "state_prov": "CT"
+      },
+      "frc5687": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Portland",
+        "country": "USA",
+        "key": "frc5687",
+        "name": "The Outliers",
+        "number": 5687,
+        "rookie_year": 2015,
+        "state_prov": "ME"
+      },
+      "frc571": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Windsor",
+        "country": "USA",
+        "key": "frc571",
+        "name": "Team Paragon Robotics",
+        "number": 571,
+        "rookie_year": 2001,
+        "state_prov": "CT"
+      },
+      "frc5735": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Wayland",
+        "country": "USA",
+        "key": "frc5735",
+        "name": "Control Freaks",
+        "number": 5735,
+        "rookie_year": 2015,
+        "state_prov": "MA"
+      },
+      "frc5738": {
+        "active_years": [
+          2015
+        ],
+        "city": "Central Falls",
+        "country": "USA",
+        "key": "frc5738",
+        "name": "warriors",
+        "number": 5738,
+        "rookie_year": 2015,
+        "state_prov": "RI"
+      },
+      "frc5746": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2023,
+          2024
+        ],
+        "city": "Deep River",
+        "country": "USA",
+        "key": "frc5746",
+        "name": "Human Error",
+        "number": 5746,
+        "rookie_year": 2015,
+        "state_prov": "CT"
+      },
+      "frc5752": {
+        "active_years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022
+        ],
+        "city": "Beverly",
+        "country": "USA",
+        "key": "frc5752",
+        "name": "Bevbotics",
+        "number": 5752,
+        "rookie_year": 2015,
+        "state_prov": "MA"
+      },
+      "frc5782": {
+        "active_years": [
+          2015
+        ],
+        "city": "Newport",
+        "country": "USA",
+        "key": "frc5782",
+        "name": "Sullivan 4H-Newport",
+        "number": 5782,
+        "rookie_year": 2015,
+        "state_prov": "NH"
+      },
+      "frc58": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "South Portland",
+        "country": "USA",
+        "key": "frc58",
+        "name": "The Riot Crew",
+        "number": 58,
+        "rookie_year": 1996,
+        "state_prov": "ME"
+      },
+      "frc5813": {
+        "active_years": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Concord",
+        "country": "USA",
+        "key": "frc5813",
+        "name": "Morpheus",
+        "number": 5813,
+        "rookie_year": 2016,
+        "state_prov": "NH"
+      },
+      "frc5844": {
+        "active_years": [
+          2016,
+          2017
+        ],
+        "city": "Boston",
+        "country": "USA",
+        "key": "frc5844",
+        "name": "Phoenix Tech",
+        "number": 5844,
+        "rookie_year": 2016,
+        "state_prov": "MA"
+      },
+      "frc5846": {
+        "active_years": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2022
+        ],
+        "city": "North Dartmouth",
+        "country": "USA",
+        "key": "frc5846",
+        "name": "SouthCoast Corsairs",
+        "number": 5846,
+        "rookie_year": 2016,
+        "state_prov": "MA"
+      },
+      "frc5856": {
+        "active_years": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023
+        ],
+        "city": "Waterbury",
+        "country": "USA",
+        "key": "frc5856",
+        "name": "Bullbots",
+        "number": 5856,
+        "rookie_year": 2016,
+        "state_prov": "CT"
+      },
+      "frc5902": {
+        "active_years": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Portsmouth",
+        "country": "USA",
+        "key": "frc5902",
+        "name": "The Wire Clippers",
+        "number": 5902,
+        "rookie_year": 2016,
+        "state_prov": "NH"
+      },
+      "frc5958": {
+        "active_years": [
+          2016
+        ],
+        "city": "Providence",
+        "country": "USA",
+        "key": "frc5958",
+        "name": "Blue Wave Robotics",
+        "number": 5958,
+        "rookie_year": 2016,
+        "state_prov": "RI"
+      },
+      "frc5962": {
+        "active_years": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Lowell",
+        "country": "USA",
+        "key": "frc5962",
+        "name": "perSEVERE",
+        "number": 5962,
+        "rookie_year": 2016,
+        "state_prov": "MA"
+      },
+      "frc5969": {
+        "active_years": [
+          2016,
+          2017
+        ],
+        "city": "Jamaica Plain",
+        "country": "USA",
+        "key": "frc5969",
+        "name": "English Skunkworks",
+        "number": 5969,
+        "rookie_year": 2016,
+        "state_prov": "MA"
+      },
+      "frc61": {
+        "active_years": [
+          2014,
+          2015,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Upton",
+        "country": "USA",
+        "key": "frc61",
+        "name": "The Intimidators",
+        "number": 61,
+        "rookie_year": 1995,
+        "state_prov": "MA"
+      },
+      "frc6153": {
+        "active_years": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Farmington",
+        "country": "USA",
+        "key": "frc6153",
+        "name": "Blue Crew",
+        "number": 6153,
+        "rookie_year": 2016,
+        "state_prov": "ME"
+      },
+      "frc6161": {
+        "active_years": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Gray",
+        "country": "USA",
+        "key": "frc6161",
+        "name": "Equilibrium",
+        "number": 6161,
+        "rookie_year": 2016,
+        "state_prov": "ME"
+      },
+      "frc6172": {
+        "active_years": [
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Fairfield",
+        "country": "USA",
+        "key": "frc6172",
+        "name": "The Mad Dogs",
+        "number": 6172,
+        "rookie_year": 2016,
+        "state_prov": "ME"
+      },
+      "frc6201": {
+        "active_years": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Somerville",
+        "country": "USA",
+        "key": "frc6201",
+        "name": "The Highlanders",
+        "number": 6201,
+        "rookie_year": 2016,
+        "state_prov": "MA"
+      },
+      "frc6224": {
+        "active_years": [
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Auburn",
+        "country": "USA",
+        "key": "frc6224",
+        "name": "Saint Dominators",
+        "number": 6224,
+        "rookie_year": 2016,
+        "state_prov": "ME"
+      },
+      "frc6301": {
+        "active_years": [
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Taunton",
+        "country": "USA",
+        "key": "frc6301",
+        "name": "Nerointellect-sim Engineering & Robot Design Soiree   N.E.R.D.S.",
+        "number": 6301,
+        "rookie_year": 2017,
+        "state_prov": "MA"
+      },
+      "frc6324": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Salem",
+        "country": "USA",
+        "key": "frc6324",
+        "name": "The Blue Devils",
+        "number": 6324,
+        "rookie_year": 2017,
+        "state_prov": "NH"
+      },
+      "frc6328": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Littleton",
+        "country": "USA",
+        "key": "frc6328",
+        "name": "Mechanical Advantage",
+        "number": 6328,
+        "rookie_year": 2017,
+        "state_prov": "MA"
+      },
+      "frc6329": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Bucksport",
+        "country": "USA",
+        "key": "frc6329",
+        "name": "The Bucks' Wrath",
+        "number": 6329,
+        "rookie_year": 2017,
+        "state_prov": "ME"
+      },
+      "frc6333": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Putnam",
+        "country": "USA",
+        "key": "frc6333",
+        "name": "Scavenger Robotics",
+        "number": 6333,
+        "rookie_year": 2017,
+        "state_prov": "CT"
+      },
+      "frc6335": {
+        "active_years": [
+          2017,
+          2018
+        ],
+        "city": "Burlington",
+        "country": "USA",
+        "key": "frc6335",
+        "name": "Terminal Velocity",
+        "number": 6335,
+        "rookie_year": 2017,
+        "state_prov": "MA"
+      },
+      "frc6337": {
+        "active_years": [
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Pittsfield",
+        "country": "USA",
+        "key": "frc6337",
+        "name": "Terror Bytes",
+        "number": 6337,
+        "rookie_year": 2017,
+        "state_prov": "ME"
+      },
+      "frc6346": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Norwalk",
+        "country": "USA",
+        "key": "frc6346",
+        "name": "Cybears Robotics Team",
+        "number": 6346,
+        "rookie_year": 2017,
+        "state_prov": "CT"
+      },
+      "frc6367": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Dorchester Center",
+        "country": "USA",
+        "key": "frc6367",
+        "name": "The ElectroLights",
+        "number": 6367,
+        "rookie_year": 2017,
+        "state_prov": "MA"
+      },
+      "frc6529": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022
+        ],
+        "city": "Roxbury Crossing",
+        "country": "USA",
+        "key": "frc6529",
+        "name": "Beantown Blitz",
+        "number": 6529,
+        "rookie_year": 2017,
+        "state_prov": "MA"
+      },
+      "frc6617": {
+        "active_years": [
+          2017
+        ],
+        "city": "Bellingham",
+        "country": "USA",
+        "key": "frc6617",
+        "name": "NASA BHS Black Hawks Robotics Club",
+        "number": 6617,
+        "rookie_year": 2017,
+        "state_prov": "MA"
+      },
+      "frc6620": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "North Smithfield",
+        "country": "USA",
+        "key": "frc6620",
+        "name": "The Northmengineers",
+        "number": 6620,
+        "rookie_year": 2017,
+        "state_prov": "RI"
+      },
+      "frc663": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Whitinsville",
+        "country": "USA",
+        "key": "frc663",
+        "name": "Power Sharks",
+        "number": 663,
+        "rookie_year": 2001,
+        "state_prov": "MA"
+      },
+      "frc6675": {
+        "active_years": [
+          2017
+        ],
+        "city": "New Britain",
+        "country": "USA",
+        "key": "frc6675",
+        "name": "Ingenious Innovators",
+        "number": 6675,
+        "rookie_year": 2017,
+        "state_prov": "CT"
+      },
+      "frc6690": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Concord",
+        "country": "USA",
+        "key": "frc6690",
+        "name": "MV roboPride",
+        "number": 6690,
+        "rookie_year": 2017,
+        "state_prov": "NH"
+      },
+      "frc6691": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2024
+        ],
+        "city": "Wolfeboro",
+        "country": "USA",
+        "key": "frc6691",
+        "name": "Torque",
+        "number": 6691,
+        "rookie_year": 2017,
+        "state_prov": "NH"
+      },
+      "frc6723": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Williamstown",
+        "country": "USA",
+        "key": "frc6723",
+        "name": "Mechanical Mounties",
+        "number": 6723,
+        "rookie_year": 2017,
+        "state_prov": "MA"
+      },
+      "frc6731": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Belmont",
+        "country": "USA",
+        "key": "frc6731",
+        "name": "Record Robotics",
+        "number": 6731,
+        "rookie_year": 2017,
+        "state_prov": "MA"
+      },
+      "frc6762": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023
+        ],
+        "city": "Hillsborough",
+        "country": "USA",
+        "key": "frc6762",
+        "name": "Oscats",
+        "number": 6762,
+        "rookie_year": 2017,
+        "state_prov": "NH"
+      },
+      "frc6763": {
+        "active_years": [
+          2017,
+          2018,
+          2019,
+          2022,
+          2023
+        ],
+        "city": "Manchester",
+        "country": "USA",
+        "key": "frc6763",
+        "name": "FUSION",
+        "number": 6763,
+        "rookie_year": 2017,
+        "state_prov": "NH"
+      },
+      "frc6811": {
+        "active_years": [
+          2018,
+          2019
+        ],
+        "city": "Washington",
+        "country": "USA",
+        "key": "frc6811",
+        "name": "Gunnery Gears",
+        "number": 6811,
+        "rookie_year": 2018,
+        "state_prov": "CT"
+      },
+      "frc6812": {
+        "active_years": [
+          2018
+        ],
+        "city": "Andover",
+        "country": "USA",
+        "key": "frc6812",
+        "name": "Andover Snowflakes",
+        "number": 6812,
+        "rookie_year": 2018,
+        "state_prov": "MA"
+      },
+      "frc6895": {
+        "active_years": [
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Walpole",
+        "country": "USA",
+        "key": "frc6895",
+        "name": "Mechanical Madness 4-H",
+        "number": 6895,
+        "rookie_year": 2018,
+        "state_prov": "NH"
+      },
+      "frc69": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Quincy",
+        "country": "USA",
+        "key": "frc69",
+        "name": "HYPER",
+        "number": 69,
+        "rookie_year": 1998,
+        "state_prov": "MA"
+      },
+      "frc6933": {
+        "active_years": [
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Bethel",
+        "country": "USA",
+        "key": "frc6933",
+        "name": "Archytas",
+        "number": 6933,
+        "rookie_year": 2018,
+        "state_prov": "VT"
+      },
+      "frc7126": {
+        "active_years": [
+          2018,
+          2019
+        ],
+        "city": "Newmarket",
+        "country": "USA",
+        "key": "frc7126",
+        "name": "Atom.OS",
+        "number": 7126,
+        "rookie_year": 2018,
+        "state_prov": "NH"
+      },
+      "frc7127": {
+        "active_years": [
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Longmeadow",
+        "country": "USA",
+        "key": "frc7127",
+        "name": "LongMetal Robotics",
+        "number": 7127,
+        "rookie_year": 2018,
+        "state_prov": "MA"
+      },
+      "frc7133": {
+        "active_years": [
+          2018,
+          2019
+        ],
+        "city": "Farmington",
+        "country": "USA",
+        "key": "frc7133",
+        "name": "STEAM Makers",
+        "number": 7133,
+        "rookie_year": 2018,
+        "state_prov": "NH"
+      },
+      "frc7153": {
+        "active_years": [
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Manchester",
+        "country": "USA",
+        "key": "frc7153",
+        "name": "Aetos Dios (Eagles of Zeus)",
+        "number": 7153,
+        "rookie_year": 2018,
+        "state_prov": "CT"
+      },
+      "frc716": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Falls Village",
+        "country": "USA",
+        "key": "frc716",
+        "name": "Who'sCTEKS",
+        "number": 716,
+        "rookie_year": 2001,
+        "state_prov": "CT"
+      },
+      "frc7164": {
+        "active_years": [
+          2018
+        ],
+        "city": "Providence",
+        "country": "USA",
+        "key": "frc7164",
+        "name": "RHODE REBELS",
+        "number": 7164,
+        "rookie_year": 2018,
+        "state_prov": "RI"
+      },
+      "frc7212": {
+        "active_years": [
+          2018,
+          2019
+        ],
+        "city": "Lebanon",
+        "country": "USA",
+        "key": "frc7212",
+        "name": "LCS Warriors",
+        "number": 7212,
+        "rookie_year": 2018,
+        "state_prov": "NH"
+      },
+      "frc7240": {
+        "active_years": [
+          2018
+        ],
+        "city": "Cambridge",
+        "country": "USA",
+        "key": "frc7240",
+        "name": "Nitro Knights",
+        "number": 7240,
+        "rookie_year": 2018,
+        "state_prov": "MA"
+      },
+      "frc7259": {
+        "active_years": [
+          2018
+        ],
+        "city": "Granby",
+        "country": "USA",
+        "key": "frc7259",
+        "name": "Mechanical Mustangs",
+        "number": 7259,
+        "rookie_year": 2018,
+        "state_prov": "MA"
+      },
+      "frc7266": {
+        "active_years": [
+          2018,
+          2019
+        ],
+        "city": "North Brookfield",
+        "country": "USA",
+        "key": "frc7266",
+        "name": "NBHS Steampunks",
+        "number": 7266,
+        "rookie_year": 2018,
+        "state_prov": "MA"
+      },
+      "frc7269": {
+        "active_years": [
+          2018
+        ],
+        "city": "Cambridge",
+        "country": "USA",
+        "key": "frc7269",
+        "name": "ISB VoltBots",
+        "number": 7269,
+        "rookie_year": 2018,
+        "state_prov": "MA"
+      },
+      "frc7314": {
+        "active_years": [
+          2018,
+          2019,
+          2022,
+          2023
+        ],
+        "city": "Franklin",
+        "country": "USA",
+        "key": "frc7314",
+        "name": "Tornadoes",
+        "number": 7314,
+        "rookie_year": 2018,
+        "state_prov": "NH"
+      },
+      "frc7407": {
+        "active_years": [
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Wallingford",
+        "country": "USA",
+        "key": "frc7407",
+        "name": "Wired Boars",
+        "number": 7407,
+        "rookie_year": 2019,
+        "state_prov": "CT"
+      },
+      "frc7416": {
+        "active_years": [
+          2019
+        ],
+        "city": "Bethlehem",
+        "country": "USA",
+        "key": "frc7416",
+        "name": "Northern Horizons",
+        "number": 7416,
+        "rookie_year": 2019,
+        "state_prov": "NH"
+      },
+      "frc7438": {
+        "active_years": [
+          2019
+        ],
+        "city": "Sherborn",
+        "country": "USA",
+        "key": "frc7438",
+        "name": "Brain Busters",
+        "number": 7438,
+        "rookie_year": 2019,
+        "state_prov": "MA"
+      },
+      "frc7462": {
+        "active_years": [
+          2019,
+          2022
+        ],
+        "city": "Danbury",
+        "country": "USA",
+        "key": "frc7462",
+        "name": "Disruptive Technologies",
+        "number": 7462,
+        "rookie_year": 2019,
+        "state_prov": "CT"
+      },
+      "frc7674": {
+        "active_years": [
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Rochester",
+        "country": "USA",
+        "key": "frc7674",
+        "name": "RaiderBots",
+        "number": 7674,
+        "rookie_year": 2019,
+        "state_prov": "NH"
+      },
+      "frc7694": {
+        "active_years": [
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "West Hartford",
+        "country": "USA",
+        "key": "frc7694",
+        "name": "THE IRON LIONS",
+        "number": 7694,
+        "rookie_year": 2019,
+        "state_prov": "CT"
+      },
+      "frc7760": {
+        "active_years": [
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Pomfret",
+        "country": "USA",
+        "key": "frc7760",
+        "name": "Griffin Innovations",
+        "number": 7760,
+        "rookie_year": 2019,
+        "state_prov": "CT"
+      },
+      "frc7795": {
+        "active_years": [
+          2019,
+          2023
+        ],
+        "city": "Winthrop",
+        "country": "USA",
+        "key": "frc7795",
+        "name": "Norse Code",
+        "number": 7795,
+        "rookie_year": 2019,
+        "state_prov": "MA"
+      },
+      "frc78": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Newport",
+        "country": "USA",
+        "key": "frc78",
+        "name": "AIR STRIKE",
+        "number": 78,
+        "rookie_year": 1996,
+        "state_prov": "RI"
+      },
+      "frc7822": {
+        "active_years": [
+          2019,
+          2022,
+          2023
+        ],
+        "city": "South Hamilton",
+        "country": "USA",
+        "key": "frc7822",
+        "name": "Generals Robotics",
+        "number": 7822,
+        "rookie_year": 2019,
+        "state_prov": "MA"
+      },
+      "frc7869": {
+        "active_years": [
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "New Haven",
+        "country": "USA",
+        "key": "frc7869",
+        "name": "The Fun Gang",
+        "number": 7869,
+        "rookie_year": 2019,
+        "state_prov": "CT"
+      },
+      "frc7907": {
+        "active_years": [
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Whitefield",
+        "country": "USA",
+        "key": "frc7907",
+        "name": "Spartan Robotics",
+        "number": 7907,
+        "rookie_year": 2019,
+        "state_prov": "NH"
+      },
+      "frc7913": {
+        "active_years": [
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Bristol",
+        "country": "USA",
+        "key": "frc7913",
+        "name": "\"Bear\"ly Functioning",
+        "number": 7913,
+        "rookie_year": 2019,
+        "state_prov": "NH"
+      },
+      "frc8013": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Boston",
+        "country": "USA",
+        "key": "frc8013",
+        "name": "Boston Lions",
+        "number": 8013,
+        "rookie_year": 2020,
+        "state_prov": "MA"
+      },
+      "frc8023": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Lewiston",
+        "country": "USA",
+        "key": "frc8023",
+        "name": "Argonauts",
+        "number": 8023,
+        "rookie_year": 2020,
+        "state_prov": "ME"
+      },
+      "frc8046": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Meredith",
+        "country": "USA",
+        "key": "frc8046",
+        "name": "LakerBots",
+        "number": 8046,
+        "rookie_year": 2020,
+        "state_prov": "NH"
+      },
+      "frc8085": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Milford",
+        "country": "USA",
+        "key": "frc8085",
+        "name": "MOJO",
+        "number": 8085,
+        "rookie_year": 2020,
+        "state_prov": "CT"
+      },
+      "frc811": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Nashua",
+        "country": "USA",
+        "key": "frc811",
+        "name": "Wild Cards",
+        "number": 811,
+        "rookie_year": 2002,
+        "state_prov": "NH"
+      },
+      "frc8167": {
+        "active_years": [
+          2022,
+          2023
+        ],
+        "city": "Durham",
+        "country": "USA",
+        "key": "frc8167",
+        "name": "Cognatives",
+        "number": 8167,
+        "rookie_year": 2020,
+        "state_prov": "CT"
+      },
+      "frc839": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Feeding Hills",
+        "country": "USA",
+        "key": "frc839",
+        "name": "Rosie Robotics",
+        "number": 839,
+        "rookie_year": 2002,
+        "state_prov": "MA"
+      },
+      "frc8410": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Durham",
+        "country": "USA",
+        "key": "frc8410",
+        "name": "Oyster River Overdrive 8410",
+        "number": 8410,
+        "rookie_year": 2020,
+        "state_prov": "NH"
+      },
+      "frc8421": {
+        "active_years": [
+          2024
+        ],
+        "city": "Littleton",
+        "country": "USA",
+        "key": "frc8421",
+        "name": "CRUSADERS",
+        "number": 8421,
+        "rookie_year": 2020,
+        "state_prov": "NH"
+      },
+      "frc8544": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Sutton",
+        "country": "USA",
+        "key": "frc8544",
+        "name": "Reinforcement",
+        "number": 8544,
+        "rookie_year": 2021,
+        "state_prov": "MA"
+      },
+      "frc8567": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Wellesley Hills",
+        "country": "USA",
+        "key": "frc8567",
+        "name": "Team Ultraviolet",
+        "number": 8567,
+        "rookie_year": 2021,
+        "state_prov": "MA"
+      },
+      "frc8604": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Lexington",
+        "country": "USA",
+        "key": "frc8604",
+        "name": "Alpha Centauri",
+        "number": 8604,
+        "rookie_year": 2021,
+        "state_prov": "MA"
+      },
+      "frc8626": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Scituate",
+        "country": "USA",
+        "key": "frc8626",
+        "name": "Cyber Sailors",
+        "number": 8626,
+        "rookie_year": 2021,
+        "state_prov": "MA"
+      },
+      "frc8708": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Dunbarton",
+        "country": "USA",
+        "key": "frc8708",
+        "name": "Ov3R1y K0Mp13X",
+        "number": 8708,
+        "rookie_year": 2022,
+        "state_prov": "NH"
+      },
+      "frc8709": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Palmer",
+        "country": "USA",
+        "key": "frc8709",
+        "name": "Pathfinder Tech",
+        "number": 8709,
+        "rookie_year": 2022,
+        "state_prov": "MA"
+      },
+      "frc8724": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Bedford",
+        "country": "USA",
+        "key": "frc8724",
+        "name": "Mayhem",
+        "number": 8724,
+        "rookie_year": 2022,
+        "state_prov": "NH"
+      },
+      "frc88": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Bridgewater",
+        "country": "USA",
+        "key": "frc88",
+        "name": "TJ\u00b2",
+        "number": 88,
+        "rookie_year": 1996,
+        "state_prov": "MA"
+      },
+      "frc885": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019
+        ],
+        "city": "Randolph Center",
+        "country": "USA",
+        "key": "frc885",
+        "name": "Ro-bovines",
+        "number": 885,
+        "rookie_year": 2002,
+        "state_prov": "VT"
+      },
+      "frc8883": {
+        "active_years": [
+          2022
+        ],
+        "city": "South Burlington",
+        "country": "USA",
+        "key": "frc8883",
+        "name": "Green Mountain Gears",
+        "number": 8883,
+        "rookie_year": 2022,
+        "state_prov": "VT"
+      },
+      "frc8889": {
+        "active_years": [
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Waterbury",
+        "country": "USA",
+        "key": "frc8889",
+        "name": "Project W",
+        "number": 8889,
+        "rookie_year": 2022,
+        "state_prov": "CT"
+      },
+      "frc9055": {
+        "active_years": [
+          2023,
+          2024
+        ],
+        "city": "Wilton",
+        "country": "USA",
+        "key": "frc9055",
+        "name": "Knights of Katahdin (Ka TAH din)",
+        "number": 9055,
+        "rookie_year": 2023,
+        "state_prov": "ME"
+      },
+      "frc9056": {
+        "active_years": [
+          2023,
+          2024
+        ],
+        "city": "Kents Hill",
+        "country": "USA",
+        "key": "frc9056",
+        "name": "CyberHuskies 9056",
+        "number": 9056,
+        "rookie_year": 2023,
+        "state_prov": "ME"
+      },
+      "frc9096": {
+        "active_years": [
+          2023,
+          2024
+        ],
+        "city": "Stowe",
+        "country": "USA",
+        "key": "frc9096",
+        "name": "Bad Weather",
+        "number": 9096,
+        "rookie_year": 2023,
+        "state_prov": "VT"
+      },
+      "frc9101": {
+        "active_years": [
+          2023,
+          2024
+        ],
+        "city": "Burlington",
+        "country": "USA",
+        "key": "frc9101",
+        "name": "Green Mountain Robotics",
+        "number": 9101,
+        "rookie_year": 2023,
+        "state_prov": "VT"
+      },
+      "frc9193": {
+        "active_years": [
+          2023,
+          2024
+        ],
+        "city": "Waterbury",
+        "country": "USA",
+        "key": "frc9193",
+        "name": "Short-Circuited Eagles",
+        "number": 9193,
+        "rookie_year": 2023,
+        "state_prov": "CT"
+      },
+      "frc9216": {
+        "active_years": [
+          2023
+        ],
+        "city": "Darien",
+        "country": "USA",
+        "key": "frc9216",
+        "name": "DarienAdvancedRoboticsTeam (D.A.R.T.)",
+        "number": 9216,
+        "rookie_year": 2023,
+        "state_prov": "CT"
+      },
+      "frc9286": {
+        "active_years": [
+          2023,
+          2024
+        ],
+        "city": "Coventry",
+        "country": "USA",
+        "key": "frc9286",
+        "name": "The Metal Mammoths",
+        "number": 9286,
+        "rookie_year": 2023,
+        "state_prov": "RI"
+      },
+      "frc9443": {
+        "active_years": [
+          2024
+        ],
+        "city": "West Newbury",
+        "country": "USA",
+        "key": "frc9443",
+        "name": "Aluminum Panthers",
+        "number": 9443,
+        "rookie_year": 2024,
+        "state_prov": "MA"
+      },
+      "frc95": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "White River Junction",
+        "country": "USA",
+        "key": "frc95",
+        "name": "Grasshoppers",
+        "number": 95,
+        "rookie_year": 1997,
+        "state_prov": "VT"
+      },
+      "frc9644": {
+        "active_years": [
+          2024
+        ],
+        "city": "Marlborough",
+        "country": "USA",
+        "key": "frc9644",
+        "name": "NEIA Robotics",
+        "number": 9644,
+        "rookie_year": 2024,
+        "state_prov": "MA"
+      },
+      "frc97": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Cambridge",
+        "country": "USA",
+        "key": "frc97",
+        "name": "Bionic Beef",
+        "number": 97,
+        "rookie_year": 1996,
+        "state_prov": "MA"
+      },
+      "frc9710": {
+        "active_years": [
+          2024
+        ],
+        "city": "Springfield",
+        "country": "USA",
+        "key": "frc9710",
+        "name": "Discovery PolyBotz",
+        "number": 9710,
+        "rookie_year": 2024,
+        "state_prov": "MA"
+      },
+      "frc9729": {
+        "active_years": [
+          2024
+        ],
+        "city": "West Roxbury",
+        "country": "USA",
+        "key": "frc9729",
+        "name": "Knights",
+        "number": 9729,
+        "rookie_year": 2024,
+        "state_prov": "MA"
+      },
+      "frc9732": {
+        "active_years": [
+          2024
+        ],
+        "city": "Kennebunk",
+        "country": "USA",
+        "key": "frc9732",
+        "name": "The Rainbow Junkyard",
+        "number": 9732,
+        "rookie_year": 2024,
+        "state_prov": "ME"
+      },
+      "frc999": {
+        "active_years": [
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2022,
+          2023,
+          2024
+        ],
+        "city": "Cheshire",
+        "country": "USA",
+        "key": "frc999",
+        "name": "MechaRAMS",
+        "number": 999,
+        "rookie_year": 2002,
+        "state_prov": "CT"
+      }
+    },
+    "first_year": 2014,
+    "key": "ne",
+    "name": "New England"
+  },
+  "teams_per_year": {
+    "2014": {
+      "CT": 45,
+      "MA": 60,
+      "ME": 18,
+      "NH": 30,
+      "RI": 6,
+      "VT": 3
+    },
+    "2015": {
+      "CT": 47,
+      "MA": 64,
+      "ME": 21,
+      "NH": 32,
+      "RI": 6,
+      "VT": 4
+    },
+    "2016": {
+      "CT": 48,
+      "MA": 68,
+      "ME": 24,
+      "NH": 31,
+      "RI": 6,
+      "VT": 4
+    },
+    "2017": {
+      "CT": 50,
+      "MA": 72,
+      "ME": 26,
+      "NH": 36,
+      "RI": 6,
+      "VT": 4
+    },
+    "2018": {
+      "CT": 51,
+      "MA": 78,
+      "ME": 26,
+      "NH": 42,
+      "RI": 6,
+      "VT": 5
+    },
+    "2019": {
+      "CT": 54,
+      "MA": 73,
+      "ME": 21,
+      "NH": 45,
+      "RI": 5,
+      "VT": 5
+    },
+    "2022": {
+      "CT": 50,
+      "MA": 69,
+      "ME": 15,
+      "NH": 39,
+      "RI": 5,
+      "VT": 4
+    },
+    "2023": {
+      "CT": 51,
+      "MA": 66,
+      "ME": 18,
+      "NH": 39,
+      "RI": 5,
+      "VT": 6
+    },
+    "2024": {
+      "CT": 46,
+      "MA": 69,
+      "ME": 19,
+      "NH": 37,
+      "RI": 5,
+      "VT": 6
+    }
+  },
+  "winners": [
+    {
+      "teams": [
+        "frc230",
+        "frc177",
+        "frc4055"
+      ],
+      "year": 2014
+    },
+    {
+      "teams": [],
+      "year": 2015
+    },
+    {
+      "teams": [
+        "frc125",
+        "frc195",
+        "frc2168"
+      ],
+      "year": 2016
+    },
+    {
+      "teams": [
+        "frc2168",
+        "frc195",
+        "frc1073"
+      ],
+      "year": 2017
+    },
+    {
+      "teams": [
+        "frc195",
+        "frc319",
+        "frc5846"
+      ],
+      "year": 2018
+    },
+    {
+      "teams": [
+        "frc125",
+        "frc2168",
+        "frc558"
+      ],
+      "year": 2019
+    },
+    {
+      "teams": [
+        "frc238",
+        "frc176",
+        "frc5846"
+      ],
+      "year": 2022
+    },
+    {
+      "teams": [
+        "frc1757",
+        "frc176",
+        "frc1699"
+      ],
+      "year": 2023
+    },
+    {
+      "teams": [],
+      "year": 2024
+    }
+  ]
+}
