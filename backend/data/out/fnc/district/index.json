@@ -1959,17 +1959,6 @@
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 143.14285714285714,
-        "qualifying_points_individual": [
-          56.285714285714285,
-          53.57142857142857
-        ],
-        "qualifying_points_total": 109.85714285714286,
-        "rank": 5.285714285714286,
-        "team_key": "frc4561"
-      },
-      {
-        "age_bonus": 0,
         "dcmp_points": 138.0,
         "qualifying_points_individual": [
           49.285714285714285,
@@ -1981,47 +1970,14 @@
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 111.0,
+        "dcmp_points": 143.14285714285714,
         "qualifying_points_individual": [
-          37.0,
-          56.333333333333336
+          56.285714285714285,
+          53.57142857142857
         ],
-        "qualifying_points_total": 93.33333333333333,
-        "rank": 10.0,
-        "team_key": "frc8727"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 131.14285714285714,
-        "qualifying_points_individual": [
-          36.57142857142857,
-          44.142857142857146
-        ],
-        "qualifying_points_total": 80.71428571428571,
-        "rank": 10.428571428571429,
-        "team_key": "frc587"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 119.57142857142857,
-        "qualifying_points_individual": [
-          49.142857142857146,
-          50.42857142857143
-        ],
-        "qualifying_points_total": 99.57142857142857,
-        "rank": 11.142857142857142,
-        "team_key": "frc3506"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 98.14285714285714,
-        "qualifying_points_individual": [
-          52.57142857142857,
-          42.857142857142854
-        ],
-        "qualifying_points_total": 95.42857142857143,
-        "rank": 12.0,
-        "team_key": "frc2059"
+        "qualifying_points_total": 109.85714285714286,
+        "rank": 5.285714285714286,
+        "team_key": "frc4561"
       },
       {
         "age_bonus": 0,
@@ -2036,6 +1992,61 @@
       },
       {
         "age_bonus": 0,
+        "dcmp_points": 119.57142857142857,
+        "qualifying_points_individual": [
+          49.142857142857146,
+          50.42857142857143
+        ],
+        "qualifying_points_total": 99.57142857142857,
+        "rank": 11.142857142857142,
+        "team_key": "frc3506"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 127.2,
+        "qualifying_points_individual": [
+          42.857142857142854,
+          47.42857142857143
+        ],
+        "qualifying_points_total": 90.28571428571429,
+        "rank": 19.428571428571427,
+        "team_key": "frc5190"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 131.14285714285714,
+        "qualifying_points_individual": [
+          36.57142857142857,
+          44.142857142857146
+        ],
+        "qualifying_points_total": 80.71428571428571,
+        "rank": 10.428571428571429,
+        "team_key": "frc587"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 111.0,
+        "qualifying_points_individual": [
+          37.0,
+          56.333333333333336
+        ],
+        "qualifying_points_total": 93.33333333333333,
+        "rank": 10.0,
+        "team_key": "frc8727"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 98.14285714285714,
+        "qualifying_points_individual": [
+          52.57142857142857,
+          42.857142857142854
+        ],
+        "qualifying_points_total": 95.42857142857143,
+        "rank": 12.0,
+        "team_key": "frc2059"
+      },
+      {
+        "age_bonus": 0,
         "dcmp_points": 106.28571428571429,
         "qualifying_points_individual": [
           48.57142857142857,
@@ -2047,14 +2058,25 @@
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 87.0,
+        "dcmp_points": 130.5,
         "qualifying_points_individual": [
-          35.25,
-          46.75
+          29.571428571428573,
+          30.142857142857142
         ],
-        "qualifying_points_total": 82.0,
-        "rank": 14.5,
-        "team_key": "frc2682"
+        "qualifying_points_total": 59.714285714285715,
+        "rank": 37.0,
+        "team_key": "frc5727"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 85.8,
+        "qualifying_points_individual": [
+          45.0,
+          46.5
+        ],
+        "qualifying_points_total": 91.5,
+        "rank": 20.0,
+        "team_key": "frc2655"
       },
       {
         "age_bonus": 0,
@@ -2066,28 +2088,6 @@
         "qualifying_points_total": 86.71428571428571,
         "rank": 17.142857142857142,
         "team_key": "frc3196"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 95.5,
-        "qualifying_points_individual": [
-          33.666666666666664,
-          42.166666666666664
-        ],
-        "qualifying_points_total": 75.83333333333333,
-        "rank": 17.666666666666668,
-        "team_key": "frc6502"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 81.0,
-        "qualifying_points_individual": [
-          33.666666666666664,
-          38.666666666666664
-        ],
-        "qualifying_points_total": 72.33333333333333,
-        "rank": 18.0,
-        "team_key": "frc8738"
       },
       {
         "age_bonus": 0,
@@ -2113,69 +2113,25 @@
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 69.42857142857143,
+        "dcmp_points": 95.5,
         "qualifying_points_individual": [
-          36.714285714285715,
-          45.714285714285715
+          33.666666666666664,
+          42.166666666666664
         ],
-        "qualifying_points_total": 82.42857142857143,
-        "rank": 19.285714285714285,
-        "team_key": "frc4290"
+        "qualifying_points_total": 75.83333333333333,
+        "rank": 17.666666666666668,
+        "team_key": "frc6502"
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 127.2,
+        "dcmp_points": 87.0,
         "qualifying_points_individual": [
-          42.857142857142854,
-          47.42857142857143
+          35.25,
+          46.75
         ],
-        "qualifying_points_total": 90.28571428571429,
-        "rank": 19.428571428571427,
-        "team_key": "frc5190"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 55.5,
-        "qualifying_points_individual": [
-          51.5,
-          41.5
-        ],
-        "qualifying_points_total": 93.0,
-        "rank": 19.5,
-        "team_key": "frc9008"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 85.8,
-        "qualifying_points_individual": [
-          45.0,
-          46.5
-        ],
-        "qualifying_points_total": 91.5,
-        "rank": 20.0,
-        "team_key": "frc2655"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 83.0,
-        "qualifying_points_individual": [
-          27.75,
-          47.0
-        ],
-        "qualifying_points_total": 74.75,
-        "rank": 20.5,
-        "team_key": "frc5544"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 81.42857142857143,
-        "qualifying_points_individual": [
-          33.857142857142854,
-          36.857142857142854
-        ],
-        "qualifying_points_total": 70.71428571428571,
-        "rank": 20.571428571428573,
-        "team_key": "frc3459"
+        "qualifying_points_total": 82.0,
+        "rank": 14.5,
+        "team_key": "frc2682"
       },
       {
         "age_bonus": 0,
@@ -2190,36 +2146,80 @@
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 51.0,
+        "dcmp_points": 83.0,
         "qualifying_points_individual": [
-          40.666666666666664,
-          54.666666666666664
+          27.75,
+          47.0
         ],
-        "qualifying_points_total": 95.33333333333333,
-        "rank": 21.666666666666668,
-        "team_key": "frc7763"
+        "qualifying_points_total": 74.75,
+        "rank": 20.5,
+        "team_key": "frc5544"
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 84.0,
+        "dcmp_points": 88.5,
         "qualifying_points_individual": [
-          31.857142857142858,
-          31.0
+          30.857142857142858,
+          36.714285714285715
         ],
-        "qualifying_points_total": 62.857142857142854,
-        "rank": 23.714285714285715,
-        "team_key": "frc5160"
+        "qualifying_points_total": 67.57142857142857,
+        "rank": 30.142857142857142,
+        "team_key": "frc4829"
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 87.0,
+        "dcmp_points": 105.0,
         "qualifying_points_individual": [
-          23.666666666666668,
-          28.0
+          19.0,
+          31.5
         ],
-        "qualifying_points_total": 51.666666666666664,
-        "rank": 24.0,
-        "team_key": "frc6003"
+        "qualifying_points_total": 50.5,
+        "rank": 36.0,
+        "team_key": "frc9032"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 96.0,
+        "qualifying_points_individual": [
+          23.8,
+          34.8
+        ],
+        "qualifying_points_total": 58.6,
+        "rank": 29.4,
+        "team_key": "frc6894"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 81.0,
+        "qualifying_points_individual": [
+          33.666666666666664,
+          38.666666666666664
+        ],
+        "qualifying_points_total": 72.33333333333333,
+        "rank": 18.0,
+        "team_key": "frc8738"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 81.42857142857143,
+        "qualifying_points_individual": [
+          33.857142857142854,
+          36.857142857142854
+        ],
+        "qualifying_points_total": 70.71428571428571,
+        "rank": 20.571428571428573,
+        "team_key": "frc3459"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 69.42857142857143,
+        "qualifying_points_individual": [
+          36.714285714285715,
+          45.714285714285715
+        ],
+        "qualifying_points_total": 82.42857142857143,
+        "rank": 19.285714285714285,
+        "team_key": "frc4290"
       }
     ]
   },

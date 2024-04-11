@@ -67,7 +67,7 @@ def process_district_index(info: DistrictInfo):
     for y in district_years(info.summary.first_year):
         rankings[str(y)] = sorted(
             info.annual_info[y].rankings,
-            key=lambda r: r.dcmp_points + r.qualifying_points_total,
+            key=lambda r: r.rank,
         )[:25]
 
         for r in info.annual_info[y].rankings:
@@ -174,7 +174,9 @@ def process_district_index(info: DistrictInfo):
             "overall": [
                 x.to_dict()
                 for x in sorted(
-                    [r for r in avged_ranks if r.rank > 0], key=lambda r: r.rank
+                    [r for r in avged_ranks if r.rank > 0],
+                    key=lambda r: (r.dcmp_points + r.qualifying_points_total),
+                    reverse=True,
                 )[:25]
             ],
             "by_year": {k: [x.to_dict() for x in v] for k, v in rankings.items()},

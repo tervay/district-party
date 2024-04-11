@@ -2280,14 +2280,14 @@
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 110.25,
+        "dcmp_points": 126.0,
         "qualifying_points_individual": [
-          41.625,
-          40.125
+          34.375,
+          39.375
         ],
-        "qualifying_points_total": 81.75,
-        "rank": 11.125,
-        "team_key": "frc829"
+        "qualifying_points_total": 73.75,
+        "rank": 18.875,
+        "team_key": "frc1747"
       },
       {
         "age_bonus": 0,
@@ -2302,17 +2302,6 @@
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 90.75,
-        "qualifying_points_individual": [
-          45.625,
-          43.0
-        ],
-        "qualifying_points_total": 88.625,
-        "rank": 13.25,
-        "team_key": "frc3940"
-      },
-      {
-        "age_bonus": 0,
         "dcmp_points": 113.57142857142857,
         "qualifying_points_individual": [
           42.875,
@@ -2321,6 +2310,28 @@
         "qualifying_points_total": 83.0,
         "rank": 13.375,
         "team_key": "frc4272"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 110.25,
+        "qualifying_points_individual": [
+          41.625,
+          40.125
+        ],
+        "qualifying_points_total": 81.75,
+        "rank": 11.125,
+        "team_key": "frc829"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 116.0,
+        "qualifying_points_individual": [
+          32.0,
+          38.625
+        ],
+        "qualifying_points_total": 70.625,
+        "rank": 19.375,
+        "team_key": "frc71"
       },
       {
         "age_bonus": 0,
@@ -2335,6 +2346,39 @@
       },
       {
         "age_bonus": 0,
+        "dcmp_points": 126.0,
+        "qualifying_points_individual": [
+          26.625,
+          29.375
+        ],
+        "qualifying_points_total": 56.0,
+        "rank": 21.0,
+        "team_key": "frc5010"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 108.0,
+        "qualifying_points_individual": [
+          30.875,
+          42.125
+        ],
+        "qualifying_points_total": 73.0,
+        "rank": 16.5,
+        "team_key": "frc1720"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 90.75,
+        "qualifying_points_individual": [
+          45.625,
+          43.0
+        ],
+        "qualifying_points_total": 88.625,
+        "rank": 13.25,
+        "team_key": "frc3940"
+      },
+      {
+        "age_bonus": 0,
         "dcmp_points": 114.0,
         "qualifying_points_individual": [
           32.0,
@@ -2343,6 +2387,28 @@
         "qualifying_points_total": 64.5,
         "rank": 14.75,
         "team_key": "frc7617"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 111.5,
+        "qualifying_points_individual": [
+          29.5,
+          30.25
+        ],
+        "qualifying_points_total": 59.75,
+        "rank": 19.25,
+        "team_key": "frc292"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 100.5,
+        "qualifying_points_individual": [
+          39.6,
+          30.6
+        ],
+        "qualifying_points_total": 70.2,
+        "rank": 18.6,
+        "team_key": "frc4103"
       },
       {
         "age_bonus": 0,
@@ -2368,17 +2434,6 @@
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 108.0,
-        "qualifying_points_individual": [
-          30.875,
-          42.125
-        ],
-        "qualifying_points_total": 73.0,
-        "rank": 16.5,
-        "team_key": "frc1720"
-      },
-      {
-        "age_bonus": 0,
         "dcmp_points": 86.625,
         "qualifying_points_individual": [
           32.75,
@@ -2387,72 +2442,6 @@
         "qualifying_points_total": 67.375,
         "rank": 17.0,
         "team_key": "frc5484"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 100.5,
-        "qualifying_points_individual": [
-          39.6,
-          30.6
-        ],
-        "qualifying_points_total": 70.2,
-        "rank": 18.6,
-        "team_key": "frc4103"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 126.0,
-        "qualifying_points_individual": [
-          34.375,
-          39.375
-        ],
-        "qualifying_points_total": 73.75,
-        "rank": 18.875,
-        "team_key": "frc1747"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 111.5,
-        "qualifying_points_individual": [
-          29.5,
-          30.25
-        ],
-        "qualifying_points_total": 59.75,
-        "rank": 19.25,
-        "team_key": "frc292"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 116.0,
-        "qualifying_points_individual": [
-          32.0,
-          38.625
-        ],
-        "qualifying_points_total": 70.625,
-        "rank": 19.375,
-        "team_key": "frc71"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 85.8,
-        "qualifying_points_individual": [
-          27.666666666666668,
-          30.0
-        ],
-        "qualifying_points_total": 57.666666666666664,
-        "rank": 20.833333333333332,
-        "team_key": "frc6498"
-      },
-      {
-        "age_bonus": 0,
-        "dcmp_points": 126.0,
-        "qualifying_points_individual": [
-          26.625,
-          29.375
-        ],
-        "qualifying_points_total": 56.0,
-        "rank": 21.0,
-        "team_key": "frc5010"
       },
       {
         "age_bonus": 0,
@@ -2478,17 +2467,6 @@
       },
       {
         "age_bonus": 0,
-        "dcmp_points": 59.142857142857146,
-        "qualifying_points_individual": [
-          29.625,
-          32.375
-        ],
-        "qualifying_points_total": 62.0,
-        "rank": 24.0,
-        "team_key": "frc1018"
-      },
-      {
-        "age_bonus": 0,
         "dcmp_points": 96.0,
         "qualifying_points_individual": [
           23.375,
@@ -2497,6 +2475,28 @@
         "qualifying_points_total": 51.875,
         "rank": 25.875,
         "team_key": "frc4926"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 96.0,
+        "qualifying_points_individual": [
+          21.5,
+          30.0
+        ],
+        "qualifying_points_total": 51.5,
+        "rank": 31.0,
+        "team_key": "frc328"
+      },
+      {
+        "age_bonus": 0,
+        "dcmp_points": 85.8,
+        "qualifying_points_individual": [
+          27.666666666666668,
+          30.0
+        ],
+        "qualifying_points_total": 57.666666666666664,
+        "rank": 20.833333333333332,
+        "team_key": "frc6498"
       }
     ]
   },
